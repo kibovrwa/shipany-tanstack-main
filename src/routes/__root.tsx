@@ -34,6 +34,7 @@ import { useCookieConsent } from '@/hooks/use-cookie-consent';
 import { CookieConsent } from '@/blocks/cookie-consent';
 import { Ads } from '@/components/analytics/ads';
 import { GoogleAnalytics } from '@/components/analytics/google-analytics';
+import { OperationsTracker } from '@/components/analytics/operations-tracker';
 import { Plausible } from '@/components/analytics/plausible';
 import { CustomerService } from '@/components/customer-service';
 import { GoogleOneTap } from '@/components/google-one-tap';
@@ -179,6 +180,9 @@ function RootComponent() {
         disableTransitionOnChange
       >
         <Outlet />
+        <OperationsTracker
+          allowed={!consentEnabled || consent === 'accepted'}
+        />
         <SandboxPreviewBridge />
         {/* Appearance on: toasts follow the theme (globals.css). */}
         <Toaster

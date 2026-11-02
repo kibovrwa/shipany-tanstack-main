@@ -1,6 +1,7 @@
 import { z } from 'zod';
 
 import { INDEXNOW_KEY_PATTERN, MAX_INDEXNOW_URLS } from '@/lib/indexnow';
+import { experimentResultSchema, experimentSchema } from '@/lib/operations';
 
 // The shared contract for REST, MCP, documentation, and permission discovery.
 const id = z.string().min(1).max(191);
@@ -77,6 +78,49 @@ function op(
 }
 
 export const adminOperations: AdminOperation[] = [
+  op(
+    'operations_report',
+    'First-party operations: today vs yesterday at the same time (UTC+08), distinct first-touch visitor cohorts by source, country, entry path or build; daily revenue per currency, unpaid checkouts and AI health. Excludes staff, service accounts and flagged test browsers.',
+    'operations.read',
+    'GET',
+    'operations',
+    z
+      .object({
+        days: z.coerce
+          .number()
+          .int()
+          .refine((n) => n === 7 || n === 30)
+          .optional(),
+        groupBy: z
+          .enum(['source', 'country', 'buildId', 'entryPath'])
+          .optional(),
+      })
+      .strict()
+  ),
+  op(
+    'operations_experiments_list',
+    'Read the experiment journal. Entries are hypotheses and manual reviews, not active traffic allocation.',
+    'operations.read',
+    'GET',
+    'operations/experiments',
+    empty
+  ),
+  op(
+    'operations_experiments_create',
+    'Record an observation, hypothesis, change, build and target sample in the experiment journal. Does not modify prices or traffic.',
+    'operations.write',
+    'POST',
+    'operations/experiments',
+    experimentSchema
+  ),
+  op(
+    'operations_experiments_conclude',
+    'Conclude or stop an observing experiment with a required review. Concurrent conclusions cannot overwrite each other.',
+    'operations.write',
+    'PATCH',
+    'operations/experiments',
+    experimentResultSchema
+  ),
   op(
     'indexnow_get',
     'Read IndexNow ownership verification and site status.',

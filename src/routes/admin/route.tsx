@@ -2,6 +2,7 @@ import { createFileRoute, Outlet } from '@tanstack/react-router';
 import {
   BadgeCheck,
   Bot,
+  ChartNoAxesCombined,
   CreditCard,
   FolderOpen,
   Home,
@@ -68,6 +69,17 @@ function AdminLayout() {
       ],
     },
   ];
+
+  if (
+    matchPermission('admin.operations.read', permissions?.permissions ?? [])
+  ) {
+    navItems.splice(1, 0, {
+      href: '/admin/operations',
+      label: m['admin.nav.operations'](),
+      icon: ChartNoAxesCombined,
+      group,
+    });
+  }
 
   const footerNavItems = [
     ...(isSuperAdmin

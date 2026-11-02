@@ -2,6 +2,7 @@ import type { AnyFieldApi } from '@tanstack/react-form';
 
 import { Field, FieldLabel } from '@/components/ui/field';
 import { Input } from '@/components/ui/input';
+import { Textarea } from '@/components/ui/textarea';
 
 function fieldError(field: AnyFieldApi): string | null {
   if (!field.state.meta.isTouched) return null;
@@ -25,6 +26,7 @@ export function TextField({
   autoComplete,
   required,
   disabled,
+  multiline = false,
 }: {
   field: AnyFieldApi;
   label: string;
@@ -33,25 +35,31 @@ export function TextField({
   autoComplete?: string;
   required?: boolean;
   disabled?: boolean;
+  multiline?: boolean;
 }) {
   const error = fieldError(field);
+  const inputProps = {
+    id: field.name,
+    name: field.name,
+    value: (field.state.value as string) ?? '',
+    onChange: (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) =>
+      field.handleChange(e.target.value),
+    onBlur: () => field.handleBlur(),
+    placeholder,
+    autoComplete,
+    required,
+    disabled,
+    'aria-invalid': !!error,
+  };
 
   return (
     <Field>
       <FieldLabel htmlFor={field.name}>{label}</FieldLabel>
-      <Input
-        id={field.name}
-        name={field.name}
-        type={type}
-        value={(field.state.value as string) ?? ''}
-        onChange={(e) => field.handleChange(e.target.value)}
-        onBlur={field.handleBlur}
-        placeholder={placeholder}
-        autoComplete={autoComplete}
-        required={required}
-        disabled={disabled}
-        aria-invalid={error ? true : undefined}
-      />
+      {multiline ? (
+        <Textarea {...inputProps} rows={3} />
+      ) : (
+        <Input {...inputProps} type={type} />
+      )}
       {error && <p className="text-destructive text-sm">{error}</p>}
     </Field>
   );

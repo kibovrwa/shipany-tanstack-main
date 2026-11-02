@@ -801,3 +801,46 @@ export const userEvent = table(
 
 export type UserEvent = typeof userEvent.$inferSelect;
 export type NewUserEvent = typeof userEvent.$inferInsert;
+
+// ─── First-party operations ──────────────────────────────────────────────────
+// One immutable first-touch cohort per browser. No IPs or raw URL queries.
+export const analyticsVisitor = table(
+  'analytics_visitor',
+  {
+    id: text('id').primaryKey(),
+    userId: text('user_id').references(() => user.id, { onDelete: 'cascade' }),
+    source: text('source').notNull().default(''),
+    country: text('country').notNull().default(''),
+    entryPath: text('entry_path').notNull().default(''),
+    buildId: text('build_id').notNull().default(''),
+    excluded: integer('excluded', { mode: 'boolean' }).notNull().default(false),
+    createdAt: integer('created_at', { mode: 'timestamp_ms' }).notNull(),
+  },
+  (t) => [
+    index('idx_analytics_visitor_created').on(t.createdAt),
+    index('idx_analytics_visitor_user').on(t.userId),
+  ]
+);
+
+// An experiment journal; publishing a log does not change product traffic.
+export const operationsExperiment = table(
+  'operations_experiment',
+  {
+    id: text('id').primaryKey(),
+    title: text('title').notNull(),
+    buildId: text('build_id').notNull(),
+    status: text('status').notNull(),
+    observation: text('observation').notNull(),
+    hypothesis: text('hypothesis').notNull(),
+    change: text('change').notNull(),
+    result: text('result').notNull(),
+    sampleTarget: integer('sample_target').notNull(),
+    createdBy: text('created_by').notNull(),
+    createdAt: integer('created_at', { mode: 'timestamp_ms' }).notNull(),
+    updatedAt: integer('updated_at', { mode: 'timestamp_ms' }).notNull(),
+  },
+  (t) => [index('idx_operations_experiment_created').on(t.createdAt)]
+);
+
+export type AnalyticsVisitor = typeof analyticsVisitor.$inferSelect;
+export type OperationsExperiment = typeof operationsExperiment.$inferSelect;

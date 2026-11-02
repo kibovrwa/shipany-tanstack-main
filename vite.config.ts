@@ -1,3 +1,4 @@
+import { execFileSync } from 'node:child_process';
 import { readFileSync } from 'node:fs';
 import { tanstackStart } from '@tanstack/react-start/plugin/vite';
 import { paraglideVitePlugin } from '@inlang/paraglide-js';
@@ -45,8 +46,25 @@ function workersDbProvider(): string {
 
 const workersDb = isCloudflareBuild ? workersDbProvider() : '';
 const keepPostgres = workersDb === 'postgresql' || workersDb === 'postgres';
+const buildId =
+  process.env.VITE_BUILD_ID ||
+  (() => {
+    try {
+      return execFileSync('git', ['rev-parse', '--short=12', 'HEAD'], {
+        encoding: 'utf8',
+        stdio: ['ignore', 'pipe', 'ignore'],
+      }).trim();
+    } catch {
+      return 'development';
+    }
+  })();
 
 export default defineConfig({
+  define: {
+    'import.meta.env.VITE_BUILD_ID': JSON.stringify(
+      buildId.trim().slice(0, 191)
+    ),
+  },
   server: {
     port: 3000,
     // Cloud sandboxes (ShipAny Code / e2b) proxy the dev server through a

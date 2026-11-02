@@ -12,6 +12,7 @@ import { AUTH_SECRET_PLACEHOLDER, envConfigs } from '@/config';
 import * as schema from '@/config/db/schema';
 import { getAllConfigs } from '@/modules/config/service';
 import { grantForNewUser } from '@/modules/credits/service';
+import { linkVisitor } from '@/modules/operations/service';
 import { grantRoleForNewUser } from '@/modules/rbac/service';
 import {
   getClientIpFromCtx,
@@ -24,6 +25,7 @@ import {
   sanitizeUtm,
 } from '@/lib/cookie';
 import { getUuid } from '@/lib/hash';
+import { OPERATIONS_COOKIE, readVisitorCookie } from '@/lib/operations-cookie';
 
 function assertProductionAuthSecret() {
   // Only enforce at runtime in production.
@@ -347,7 +349,12 @@ export function getAuth(configs?: Record<string, string>) {
               },
             };
           },
-          after: async (createdUser: any) => {
+          after: async (createdUser: any, ctx: any) => {
+            const visitorId = readVisitorCookie(
+              new Headers({
+                cookie: `${OPERATIONS_COOKIE}=${getCookieFromCtx(ctx, OPERATIONS_COOKIE) || ''}`,
+              })
+            );
             // Onboarding side effects. Read configs fresh: authInstance is
             // cached, so the `configs` captured at build time can be stale
             // after an admin settings save.
@@ -356,6 +363,17 @@ export function getAuth(configs?: Record<string, string>) {
               return null;
             });
             if (!all) return;
+            const consent = getCookieFromCtx(ctx, 'cookie_consent');
+            if (
+              visitorId &&
+              consent !== 'rejected' &&
+              (all.cookie_consent_enabled !== 'true' ||
+                consent === 'accepted') &&
+              getHeaderValue(ctx, 'dnt') !== '1' &&
+              getHeaderValue(ctx, 'sec-gpc') !== '1'
+            ) {
+              await linkVisitor(visitorId, createdUser.id).catch(() => {});
+            }
 
             try {
               await grantRoleForNewUser({

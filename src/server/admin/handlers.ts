@@ -10,6 +10,7 @@ import * as guest_posts from './handlers/guest-posts';
 import * as guest_posts_id from './handlers/guest-posts-id';
 import * as indexnow from './handlers/indexnow';
 import * as invite_codes from './handlers/invite-codes';
+import * as operations from './handlers/operations';
 import * as orders from './handlers/orders';
 import * as orders_refund from './handlers/orders-refund';
 import * as permissions from './handlers/permissions';
@@ -33,6 +34,10 @@ export const handlers: Record<
   string,
   (context: AdminHandlerContext) => Promise<Response>
 > = {
+  operations_report: operations.GET,
+  operations_experiments_list: operations.LIST,
+  operations_experiments_create: operations.POST,
+  operations_experiments_conclude: operations.PATCH,
   indexnow_get: indexnow.GET,
   indexnow_update: indexnow.PUT,
   indexnow_submit: indexnow.POST,

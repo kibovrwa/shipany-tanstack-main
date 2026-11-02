@@ -46,6 +46,43 @@ exports, permission codes, and behavior that changes for end users.
 
 ---
 
+## 2026-11-02: First-party operations dashboard
+
+`/admin/operations` adds same-time today/yesterday comparisons (UTC+08:00),
+per-currency net revenue, unpaid checkout users, AI health, first-touch
+visitor cohorts by channel/country/entry/build, daily reports, CSV export,
+and an experiment journal. The shared admin operations also expose these
+reports and logs to authenticated agents; no external analytics service is
+required. The journal does not allocate A/B traffic or change prices.
+
+### Action required
+
+- [ ] Copy `analyticsVisitor` and `operationsExperiment` from the matching
+      schema template into `schema.ts`. For development run `pnpm db:push`;
+      for production generate and review migrations before applying them.
+- [ ] Run `pnpm admin:token sync-permissions` to register
+      `admin.operations.read` and `admin.operations.write`. Existing super
+      administrators work immediately. Grant the explicit codes to other
+      roles as needed; the command preserves current role assignments.
+- [ ] Take the operations tracker, root integration, auth signup hook,
+      signed-cookie helper, build configuration, module, admin operations,
+      routes, blocks and translations together. Visits start being collected
+      after installation. Historical anonymous visits cannot be reconstructed.
+- [ ] Visitor collection honors cookie consent, DNT and GPC. Entry pages
+      exclude queries; no IP addresses or raw referrers are stored in the
+      new table. First-touch cohorts remain fixed across return visits.
+      Authenticated users are deduplicated to the earliest linked browser;
+      staff with active admin-access roles, API accounts and marked test
+      browsers are excluded. Mark a fresh test browser's first public visit
+      with `?ops_test=1` to exclude it.
+- [ ] Builds embed the current Git revision. Optionally set `VITE_BUILD_ID`
+      in CI for a release label (maximum 191 characters). Cohort revenue
+      excludes renewals; daily totals include them. Recorded refunds revise
+      the original payment day. Each currency stays separate.
+- [ ] Run `pnpm test:operations` and `pnpm build`. Provider-balance estimates,
+      automatic A/B traffic and scheduled reports require product-specific
+      integrations and are not enabled by the journal.
+
 ## 2026-10-31: IndexNow administration
 
 The admin sidebar now includes `/admin/indexnow`: save an ownership key,

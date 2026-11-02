@@ -367,6 +367,8 @@ const defaultRoles = [
       'admin.settings.read',
       'admin.indexnow.read',
       'admin.indexnow.submit',
+      'admin.operations.read',
+      'admin.operations.write',
       'admin.ai-tasks.*',
     ],
   },
