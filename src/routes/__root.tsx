@@ -26,6 +26,7 @@ import {
   pickAppearance,
   THEME_COOKIE,
 } from '@/config/appearance';
+import { brand, isNoindexEnabled } from '@/config/brand';
 import { parseCookieConsent } from '@/lib/cookie-consent';
 import { getQueryClient } from '@/lib/query-client';
 import { getLocale, locales, localizeUrl } from '@/paraglide/runtime.js';
@@ -136,17 +137,24 @@ export const Route = createRootRoute({
       (typeof window !== 'undefined' && window.location?.origin) ||
       envConfigs.app_url ||
       '';
+    const noindex = isNoindexEnabled();
     return {
       meta: [
         { charSet: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { title: envConfigs.app_name },
+        { title: envConfigs.app_name || brand.name },
         { name: 'description', content: envConfigs.app_description },
         { name: 'generator', content: 'ShipAny' },
+        ...(noindex
+          ? [
+              { name: 'robots', content: 'noindex, nofollow' },
+              { name: 'googlebot', content: 'noindex, nofollow' },
+            ]
+          : []),
       ],
       links: [
-        { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' },
-        { rel: 'apple-touch-icon', href: '/favicon.svg' },
+        { rel: 'icon', href: brand.favicon, type: 'image/png' },
+        { rel: 'apple-touch-icon', href: brand.favicon },
         ...locales.map((loc) => ({
           rel: 'alternate',
           hrefLang: loc,

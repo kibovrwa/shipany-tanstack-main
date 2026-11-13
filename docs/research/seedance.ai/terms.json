@@ -1,0 +1,1156 @@
+{
+  "title": "Seedance AI Community Terms of Service",
+  "url": "https://www.seedance.ai/terms",
+  "fonts": [
+    "__Inter_d8ebd1, __Inter_Fallback_d8ebd1",
+    "Arial, Helvetica, sans-serif",
+    "-apple-system, BlinkMacSystemFont, \"SF Pro Display\", system-ui, sans-serif",
+    "-apple-system, BlinkMacSystemFont, \"SF Pro Text\", system-ui, sans-serif",
+    "\"JetBrains Mono\", ui-monospace, Menlo, monospace"
+  ],
+  "bodyBg": "rgb(10, 10, 10)",
+  "bodyColor": "rgb(250, 250, 250)",
+  "bodyFont": "Arial, Helvetica, sans-serif",
+  "links": [
+    {
+      "href": "/",
+      "text": "Seedance AI"
+    },
+    {
+      "href": "/discover",
+      "text": "Inspiration"
+    },
+    {
+      "href": "/ai-actor-ip",
+      "text": "IP Actor"
+    },
+    {
+      "href": "/ai-image-generator",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-editor",
+      "text": ""
+    },
+    {
+      "href": "/ai-region-edit",
+      "text": ""
+    },
+    {
+      "href": "/ai-paint",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=flux-3-text-to-image",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-flare",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-sunburst",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-flare",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-sunburst",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-text-to-image",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2.1-text-to-image",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2-text-to-image",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-pro-text-to-image",
+      "text": ""
+    },
+    {
+      "href": "/ai-image-generator?model=z-image-turbo",
+      "text": ""
+    },
+    {
+      "href": "/text-to-video-ai",
+      "text": ""
+    },
+    {
+      "href": "/image-to-video-ai",
+      "text": ""
+    },
+    {
+      "href": "/ai-video-editor",
+      "text": ""
+    },
+    {
+      "href": "/effects",
+      "text": ""
+    },
+    {
+      "href": "/kling-video-ai",
+      "text": ""
+    },
+    {
+      "href": "/google-veo-ai",
+      "text": ""
+    },
+    {
+      "href": "/hailuo-ai-video",
+      "text": ""
+    },
+    {
+      "href": "/wan-ai",
+      "text": ""
+    },
+    {
+      "href": "/kling-video-ai?model=kling-v4.0-text-to-video",
+      "text": ""
+    },
+    {
+      "href": "/home-design",
+      "text": ""
+    },
+    {
+      "href": "/ai-tools/image-to-illustration",
+      "text": ""
+    },
+    {
+      "href": "/grok-bot-avatar-generator",
+      "text": ""
+    },
+    {
+      "href": "/ai-fuse-bead-generator",
+      "text": ""
+    },
+    {
+      "href": "/ai-football-league",
+      "text": ""
+    },
+    {
+      "href": "/ai-pose",
+      "text": ""
+    },
+    {
+      "href": "/ai-pet-papercraft",
+      "text": ""
+    },
+    {
+      "href": "/ai-doodle-selfie",
+      "text": ""
+    },
+    {
+      "href": "/ai-idol",
+      "text": ""
+    },
+    {
+      "href": "/text-to-speech-ai",
+      "text": ""
+    },
+    {
+      "href": "/ai-tools/halloween-ai",
+      "text": ""
+    },
+    {
+      "href": "/ai-dance/baby-dance-ai",
+      "text": ""
+    },
+    {
+      "href": "/ai-hairstyle-changer",
+      "text": ""
+    },
+    {
+      "href": "/ai-hair-color-changer",
+      "text": ""
+    },
+    {
+      "href": "/image-to-gif",
+      "text": ""
+    },
+    {
+      "href": "/3d_ai",
+      "text": ""
+    },
+    {
+      "href": "/ai-tools",
+      "text": ""
+    },
+    {
+      "href": "/pricing",
+      "text": "Pricing"
+    },
+    {
+      "href": "/signin?from=%2Fterms",
+      "text": "Login"
+    },
+    {
+      "href": "/discover",
+      "text": "Inspiration"
+    },
+    {
+      "href": "/ai-actor-ip",
+      "text": "IP Actor"
+    },
+    {
+      "href": "/ai-image-generator",
+      "text": "AI Image Generator"
+    },
+    {
+      "href": "/ai-image-editor",
+      "text": "AI Image Editor"
+    },
+    {
+      "href": "/ai-region-edit",
+      "text": "AI Region Edit"
+    },
+    {
+      "href": "/ai-paint",
+      "text": "AI Paint"
+    },
+    {
+      "href": "/ai-image-generator?model=flux-3-text-to-image",
+      "text": "FLUX 3Text and up to 10 reference images, up to 4K"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-flare",
+      "text": "GPT Image 2.6 FlareFast text-to-image and edit, GIF and SVG"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-sunburst",
+      "text": "GPT Image 2.6 SunburstHigher fidelity text-to-image and edit"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-flare",
+      "text": "GPT Image 2.5 FlareFast everyday generation and iteration"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-sunburst",
+      "text": "GPT Image 2.5 SunburstHigher edit precision and subject fidelity"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-text-to-image",
+      "text": "GPT Image 2Strong prompt understanding, vivid detail"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2.1-text-to-image",
+      "text": "Nano Banana 2.14K generation and reference-image edits"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2-text-to-image",
+      "text": "Nano Banana 2Fast creative generation, stylized output"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-pro-text-to-image",
+      "text": "Nano Banana ProHigher resolution, refined textures"
+    },
+    {
+      "href": "/ai-image-generator?model=z-image-turbo",
+      "text": "Z Image TurboUltra-fast preview, low-latency generation"
+    },
+    {
+      "href": "/text-to-video-ai",
+      "text": "Text to Video"
+    },
+    {
+      "href": "/image-to-video-ai",
+      "text": "Image to Video"
+    },
+    {
+      "href": "/ai-video-editor",
+      "text": "AI Video Editor"
+    },
+    {
+      "href": "/effects",
+      "text": "AI Video Effects"
+    },
+    {
+      "href": "/kling-video-ai",
+      "text": "Kling AIHigh motion, fluid character movement"
+    },
+    {
+      "href": "/google-veo-ai",
+      "text": "Google Veo AICinematic quality, long-form scenes"
+    },
+    {
+      "href": "/hailuo-ai-video",
+      "text": "Minimax H3Advanced multimodal video generation"
+    },
+    {
+      "href": "/wan-ai",
+      "text": "Wan AIFast generation, low latency preview"
+    },
+    {
+      "href": "/kling-video-ai?model=kling-v4.0-text-to-video",
+      "text": "Kling 4.0 AIHigh-quality video, complex stories, precise control"
+    },
+    {
+      "href": "/home-design",
+      "text": "Home Design"
+    },
+    {
+      "href": "/ai-tools/image-to-illustration",
+      "text": "Image to Illustration"
+    },
+    {
+      "href": "/grok-bot-avatar-generator",
+      "text": "Grok Bot Avatar"
+    },
+    {
+      "href": "/ai-fuse-bead-generator",
+      "text": "AI Fuse Bead Generator"
+    },
+    {
+      "href": "/ai-football-league",
+      "text": "AI Football League"
+    },
+    {
+      "href": "/ai-pose",
+      "text": "AI Pose Changer"
+    },
+    {
+      "href": "/ai-pet-papercraft",
+      "text": "AI Pet Papercraft"
+    },
+    {
+      "href": "/ai-doodle-selfie",
+      "text": "AI Doodle Selfie"
+    },
+    {
+      "href": "/ai-idol",
+      "text": "AI Idol"
+    },
+    {
+      "href": "/text-to-speech-ai",
+      "text": "AI Audio"
+    },
+    {
+      "href": "/ai-tools/halloween-ai",
+      "text": "Halloween AI"
+    },
+    {
+      "href": "/ai-dance/baby-dance-ai",
+      "text": "AI Baby Dance"
+    },
+    {
+      "href": "/ai-hairstyle-changer",
+      "text": "Hairstyle Changer"
+    },
+    {
+      "href": "/ai-hair-color-changer",
+      "text": "Hair Color Changer"
+    },
+    {
+      "href": "/image-to-gif",
+      "text": "Image to GIF"
+    },
+    {
+      "href": "/3d_ai",
+      "text": "AI 3D Model Generator"
+    },
+    {
+      "href": "/ai-tools",
+      "text": "Explore more AI Tools →"
+    },
+    {
+      "href": "/pricing",
+      "text": "Pricing"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "help@seedance.ai"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "help@seedance.ai"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "help@seedance.ai"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "help@seedance.ai"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "help@seedance.ai"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "help@seedance.ai"
+    },
+    {
+      "href": "/",
+      "text": "seedance.ai"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "Contact Us\nhelp@seedance.ai"
+    },
+    {
+      "href": "/refund-policy",
+      "text": "Refund Policy"
+    },
+    {
+      "href": "/about",
+      "text": "About Us"
+    },
+    {
+      "href": "/version-hub",
+      "text": "Community Hub"
+    },
+    {
+      "href": "/terms",
+      "text": "Terms of services"
+    },
+    {
+      "href": "/privacy-policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "/content-policy",
+      "text": "Content policy"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.seedance.ai/icon.png",
+      "alt": "Seedance AI logo",
+      "w": 499,
+      "h": 500
+    },
+    {
+      "src": "https://www.seedance.ai/_next/image?url=https%3A%2F%2Fcdn.seedance.ai%2Ficon.png&w=32&q=75",
+      "alt": "Seedance AI logo",
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "videos": [],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "STYLE",
+      "id": "",
+      "class": "",
+      "text": "#nprogress{pointer-events:none}#nprogress .bar{background:#570df8;position:fixed;z-index:1031;top:0;left:0;width:100%;height:3px}#nprogress .peg{display:block;position:absolute;right:0;width:100px;height:100%;box-shadow:0 0 10px #570df8,0 0 5px #570df8;opacity:1;-webkit-transform:rotate(3deg) translate(0px,-4px);-ms-transform:rotate(3deg) translate(0px,-4px);transform:rotate(3deg) translate(0px,-4px)}#nprogress .spinner{display:block;position:fixed;z-index:1031;top:15px;right:15px}#nprogress .sp",
+      "h": 0
+    },
+    {
+      "i": 1,
+      "tag": "DIV",
+      "id": "",
+      "class": "sd-header-root",
+      "text": "Seedance AI Inspiration IP Actor AI Image AI Video AI Tools Pricing Login",
+      "h": 0
+    },
+    {
+      "i": 2,
+      "tag": "HEADER",
+      "id": "",
+      "class": "sd-header",
+      "text": "Seedance AI Inspiration IP Actor AI Image AI Video AI Tools Pricing Login",
+      "h": 64
+    },
+    {
+      "i": 3,
+      "tag": "MAIN",
+      "id": "",
+      "class": "min-h-screen bg-black",
+      "text": "Seedance AI Community Terms of Service 1. Introduction Welcome to Seedance AI Community, an AI-powered video generation platform (hereinafter referred to as \"the Service\"). By accessing or using our website https://seedance.ai (hereinafter referred to as \"the Website\"), you agree to be bound by these Terms of Service (hereinafter referred to as \"these Terms\"). These Terms govern your use of the Website and the services provided by Seedance AI Community (hereinafter referred to as \"we\"). Please r",
+      "h": 10213.75
+    },
+    {
+      "i": 4,
+      "tag": "DIV",
+      "id": "",
+      "class": "w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24",
+      "text": "Seedance AI Community Terms of Service 1. Introduction Welcome to Seedance AI Community, an AI-powered video generation platform (hereinafter referred to as \"the Service\"). By accessing or using our website https://seedance.ai (hereinafter referred to as \"the Website\"), you agree to be bound by these Terms of Service (hereinafter referred to as \"these Terms\"). These Terms govern your use of the Website and the services provided by Seedance AI Community (hereinafter referred to as \"we\"). Please r",
+      "h": 10213.75
+    },
+    {
+      "i": 5,
+      "tag": "HEADER",
+      "id": "",
+      "class": "mb-10",
+      "text": "Seedance AI Community Terms of Service",
+      "h": 88
+    },
+    {
+      "i": 6,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-4",
+      "text": "1. Introduction Welcome to Seedance AI Community, an AI-powered video generation platform (hereinafter referred to as \"the Service\"). By accessing or using our website https://seedance.ai (hereinafter referred to as \"the Website\"), you agree to be bound by these Terms of Service (hereinafter referred to as \"these Terms\"). These Terms govern your use of the Website and the services provided by Seedance AI Community (hereinafter referred to as \"we\"). Please read these Terms carefully before using ",
+      "h": 272.75
+    },
+    {
+      "i": 7,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "2. Eligibility Requirements 2.1 Age Requirements Minimum Age: You must be at least 13 years old (or the minimum age of digital consent in your jurisdiction, whichever is higher) to access or use the Service. Minor Use: If you are at least 13 years old but under the age of 18 (or the age of legal majority in your jurisdiction), you represent and warrant that you have obtained the express permission of your parent or legal guardian to use the Service and to be bound by these Terms. 2.2 Use on Beha",
+      "h": 410
+    },
+    {
+      "i": 8,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "3. Account Registration 3.1 Requirements Provide true, complete, and current information. 3.2 Security You are responsible for all activities under your account. Notify us at help@seedance.ai of any unauthorized use. 3.3 Restrictions Each person is limited to one account. Sharing or transferring accounts is prohibited.",
+      "h": 287.75
+    },
+    {
+      "i": 9,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "4. Service Description 4.1 Service Content Seedance AI Community provides innovative AI-powered content generation services, which currently include but are not limited to: Image to Video: Transforming static images into dynamic video content. Text to Video: Generating video sequences based on text descriptions. Video to Video: Modifying, enhancing, or restyling existing video content. AI Effects & Tools: Applying AI-driven artistic effects and other creative features. Creative Community Feature",
+      "h": 504.5
+    },
+    {
+      "i": 10,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "5. User Conduct Standards 5.1 Permitted Use Seedance AI Community grants you a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to use the Service for lawful purposes strictly in accordance with these Terms and applicable laws. 5.2 Prohibited Conduct To ensure the security and integrity of our community, you agree not to: Attempt to reverse engineer, decompile, disassemble, or derive the source code, underlying ideas, or algorithms of any part of the Service. Us",
+      "h": 682.75
+    },
+    {
+      "i": 11,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "6. User Content and Intellectual Property Rights 6.1 Platform Intellectual Property Rights All intellectual property rights in the Website, the Service, and all content provided by Seedance AI Community (including but not limited to software, algorithms, text, graphics, logos, and trademarks) are owned by Seedance AI Community or its licensors. Except as expressly provided in these Terms, you are not granted any rights or licenses in these materials. 6.2 User Input Content Users and/or original ",
+      "h": 1027.5
+    },
+    {
+      "i": 12,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "7. AI-Generated Content Disclaimer You understand and agree to the following regarding content generated by the Service (\"Output\"): 7.1 No Warranty on Output Seedance AI Community provides the Service using evolving AI technology. We do not guarantee the accuracy, completeness, legality, or suitability of any Output. You acknowledge that Output may contain technical errors, inherent biases, or inaccuracies and does not represent the views or positions of Seedance AI Community. 7.2 Third-Party Ri",
+      "h": 516.5
+    },
+    {
+      "i": 13,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "8. Subscription Management and Billing 8.1 Payment Finality All payments for subscriptions, credit purchases, or other paid features are final. Once you obtain access to the paid service or credits, the Service is deemed to have started delivery and the related fees are not refundable, unless otherwise required by law. 8.2 Subscriptions and Auto-Renewal Seedance AI Community offers monthly and annual subscription plans: Auto-Renewal: Unless you cancel at least 24 hours before the end of the curr",
+      "h": 520.5
+    },
+    {
+      "i": 14,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "9. Refund Policy 9.1 General Principles At Seedance AI Community, we strive to provide the best possible experience. However, due to the nature of digital services, once the Service has begun, we cannot \"take back\" the delivered content. Therefore, unless otherwise required by law, all payments are final, non-refundable, and non-transferable. Unused subscription periods or credits will not be refunded. 9.2 AI Output Quality Due to the probabilistic nature of AI, results may not always match your",
+      "h": 1823.5
+    },
+    {
+      "i": 15,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "10. Fraud and Abuse 10.1 Prohibited Conduct To maintain a safe and secure environment for all creators, Seedance AI Community strictly prohibits the following conduct, which is considered fraud or abuse: Using stolen, unauthorized, or otherwise fraudulent payment methods. Exploiting system vulnerabilities, bugs, or technical \"glitches\" to obtain unpaid services, credits, or premium features. Engaging in malicious refund requests or bad-faith chargebacks. Creating multiple accounts to circumvent ",
+      "h": 855.75
+    },
+    {
+      "i": 16,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "11. Third-Party Services 11.1 Third-Party Links The Service may contain links to third-party websites or services. Seedance AI Community does not control and is not responsible for the content, privacy policies, or practices of any third-party websites. 11.2 Third-Party Service Providers The Service utilizes third-party providers (e.g., payment processors, cloud infrastructure, AI models). By using the Service, you agree to comply with the applicable terms of these third parties.",
+      "h": 265
+    },
+    {
+      "i": 17,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "12. Disclaimers 12.1 Service \"As-Is\" The Service is provided on an \"as is\" and \"as available\" basis. Seedance AI Community does not warrant that: (i) the Service will be uninterrupted, error-free, or secure; (ii) the Service will meet your specific requirements; or (iii) any errors will be corrected. 12.2 Warranty Disclaimers To the maximum extent permitted by law, Seedance AI Community expressly disclaims all warranties, whether express, implied, or statutory, including but not limited to warra",
+      "h": 265
+    },
+    {
+      "i": 18,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "13. Limitation of Liability 13.1 Indirect Damages Disclaimer To the maximum extent permitted by law, Seedance AI Community shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, data, or use, even if advised of the possibility of such damages. 13.2 Maximum Compensation Cap Our total liability for any claims arising from your use of the Service shall not exceed the total fees you paid to Seedance AI Community in the 12 months prio",
+      "h": 265
+    },
+    {
+      "i": 19,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-4",
+      "text": "14. Indemnification You agree to indemnify, defend, and hold harmless Seedance AI Community and its officers, directors, and employees from any claims, damages, losses, or expenses (including reasonable attorney's fees) arising from: (i) your use of the Service; (ii) your violation of these Terms; (iii) your infringement of any third-party rights; or (iv) any content you upload or generate.",
+      "h": 139.75
+    },
+    {
+      "i": 20,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "15. Termination 15.1 User Termination You may terminate your account at any time via the Website. Your right to use the Service will end immediately upon termination. 15.2 Platform Termination Seedance AI Community may terminate or suspend your access for any reason, including violations of these Terms, with or without prior notice. 15.3 Effect of Termination Upon termination, all licenses end immediately. Fees paid are non-refundable (except as required by law). Terms related to IP, liability, ",
+      "h": 346.25
+    },
+    {
+      "i": 21,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "16. Dispute Resolution Governing Law: These Terms shall be interpreted and governed by the laws of Singapore, without regard to its conflict of laws principles. Jurisdiction: Any dispute arising from or related to these Terms shall be subject to the exclusive jurisdiction of the courts of Singapore. Dispute Resolution Process: Before initiating any formal legal proceedings, you agree to first contact us at help@seedance.ai to attempt to resolve the dispute through good-faith negotiation.",
+      "h": 259.5
+    },
+    {
+      "i": 22,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "17. General Terms Entire Agreement: These Terms (together with the Privacy Policy and Content Policy) constitute the entire agreement between you and Seedance AI Community regarding your use of the Service. Severability: If any provision is deemed invalid, the remaining provisions will remain in full force and effect. Waiver: Our failure to enforce any right does not constitute a waiver of such right. Assignment: You may not assign these Terms without our consent. Seedance AI Community may freel",
+      "h": 259.5
+    },
+    {
+      "i": 23,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "18. Changes to Terms Seedance AI Community reserves the right to modify these Terms at any time. Notification Method: We will notify you of material changes by posting the updated Terms on the Website or via email/in-service notification. Effective Time: Updated Terms will take effect immediately upon posting. Continued use of the Service indicates your acceptance. If you do not agree, please stop using the Service.",
+      "h": 230.25
+    },
+    {
+      "i": 24,
+      "tag": "SECTION",
+      "id": "",
+      "class": "space-y-6",
+      "text": "19. Contact Us If you have any questions or concerns about these Terms, please contact us: Email: help@seedance.ai These Terms of Service constitute a legally binding agreement between you and Seedance AI Community. By using the Website and the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms.",
+      "h": 242
+    },
+    {
+      "i": 25,
+      "tag": "FOOTER",
+      "id": "",
+      "class": "relative bg-[#0C0C0C] border-t border-white/[0.08] w-full",
+      "text": "seedance.ai Copyright seedance.ai © 2026 - All rights reserved LINKS Contact Us help@seedance.ai Refund Policy About Us Community Hub LEGAL Terms of services Privacy policy Content policy LANGUAGE 🇺🇸 English",
+      "h": 257
+    },
+    {
+      "i": 26,
+      "tag": "DIV",
+      "id": "",
+      "class": "",
+      "text": "",
+      "h": 868
+    },
+    {
+      "i": 27,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 28,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])",
+      "h": 0
+    },
+    {
+      "i": 29,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"0:\\\"$L1\\\"\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 30,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"2:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n3:HL[\\\"/_next/static/css/82274156851e0130.css\\\",\\\"style\\\"]\\n4:HL[\\\"/_next/static/css/c0c224ee0831f672.css\\\",\\\"style\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 31,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"5:I[33728,[],\\\"\\\"]\\n7:I[29928,[],\\\"\\\"]\\n8:I[56954,[],\\\"\\\"]\\n9:I[7264,[],\\\"\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 32,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"1:[null,[\\\"$\\\",\\\"$L5\\\",null,{\\\"buildId\\\":\\\"8U7kEAkUpzkNIwmonnARi\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"initialCanonicalUrl\\\":\\\"/terms\\\",\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[[\\\"locale\\\",\\\"en\\\",\\\"d\\\"],{\\\"children\\\":[\\\"terms\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true]}],\\\"initialHead\\\":[false,\\\"$L6\\\"],\\\"globalErrorComponent\\\":\\\"$7\\\",\\\"children\\\":[\\\"$\\\",\\\"$L8\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"",
+      "h": 0
+    },
+    {
+      "i": 33,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"b:I[98519,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-3",
+      "h": 0
+    },
+    {
+      "i": 34,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"GlobalStateProvider\\\"]\\n",
+      "h": 0
+    },
+    {
+      "i": 35,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"ic/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\nf:I[22684,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d",
+      "h": 0
+    },
+    {
+      "i": 36,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"tatic/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\n10:I[73994,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd",
+      "h": 0
+    },
+    {
+      "i": 37,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 38,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"a:[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"data-theme\\\":\\\"light\\\",\\\"className\\\":\\\"__className_d8ebd1 h-full overflow-hidden dark\\\",\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"favicon.ico\\\"}]}],[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"h-full overflow-auto overscroll-none [\\u0026::-webkit-scrollbar]:hidden [\\u0026::-webkit-scrollbar]:w-2 [\\u0026::-webkit-scrollbar-track]:bg-gray-900/50 [\\u0026::-webkit-scrollbar-thumb]:bg-gr",
+      "h": 0
+    },
+    {
+      "i": 39,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"6:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"theme-color\\\",\\\"content\\\":\\\"#570df8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"3\\\",{\\\"children\\\":\\\"Seedance AI Community Terms of Service\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Terms of Service for Seedance AI Community. Eligibility, account registrati",
+      "h": 0
+    },
+    {
+      "i": 40,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"11:I[50580,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-",
+      "h": 0
+    },
+    {
+      "i": 41,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"03d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\n13:I[70932,[\\\"797",
+      "h": 0
+    },
+    {
+      "i": 42,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"2cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"LoadingProvider\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 43,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"14:I[87531,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"9976\\\",\\\"static/chunks/9976-a7f3511478d2de9b.js\\\"",
+      "h": 0
+    },
+    {
+      "i": 44,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"15:I[76198,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"3985\\\",\\\"static/chunks/3985-f73ac7ca2d2efdfc.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\"",
+      "h": 0
+    },
+    {
+      "i": 45,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"16:I[67434,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"413\\\",\\\"static/chunks/413-4e96353bc198f563.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\",
+      "h": 0
+    },
+    {
+      "i": 46,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"1a:I[71208,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"413\\\",\\\"static/chunks/413-4e96353bc198f563.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\",
+      "h": 0
+    },
+    {
+      "i": 47,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"17:[\\\"locale\\\",\\\"en\\\",\\\"d\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 48,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"e:[\\\"$\\\",\\\"$L11\\\",null,{\\\"locale\\\":\\\"en\\\",\\\"now\\\":\\\"$D2026-11-13T10:17:02.643Z\\\",\\\"timeZone\\\":\\\"UTC\\\",\\\"messages\\\":{\\\"Metadata\\\":{\\\"homeTitle\\\":\\\"Seedance AI –Generate Video, Image \\u0026 Voice｜AI Tools\\\",\\\"homeDescription\\\":\\\"Seedance AI Video | Professional toolkit to create stunning AI videos, images \\u0026 natural voiceovers. Produce perfect Seedance Videos, Images \\u0026 Voice content.\\\"},\\\"Hero\\\":{\\\"H1-name-1\\\":\\\"If you can dream it,\\\",\\\"H1-name-2\\\":\\\"Seedance AI\\\",\\",
+      "h": 0
+    },
+    {
+      "i": 49,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"19:[\\\"$\\\",\\\"main\\\",null,{\\\"className\\\":\\\"min-h-screen bg-black\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"space-y-10\\\",\\\"children\\\":[[\\\"$\\\",\\\"header\\\",null,{\\\"className\\\":\\\"mb-10\\\",\\\"children\\\":[[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"text-3xl font-bold tracking-tight text-white sm:text-4xl lg:text-[2.75rem] lg:leading-tight\\\",\\\"children\\\":\\\"Seedance AI Com",
+      "h": 0
+    }
+  ],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Seedance AI Community Terms of Service",
+      "class": "text-3xl font-bold tracking-tight text-white sm:text-4xl lg:text-[2.75rem] lg:le"
+    },
+    {
+      "tag": "H2",
+      "text": "1. Introduction",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H2",
+      "text": "2. Eligibility Requirements",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "2.1 Age Requirements",
+      "class": "text-xl font-semibold text-gray-100"
+    },
+    {
+      "tag": "H3",
+      "text": "2.2 Use on Behalf of an Entity",
+      "class": "text-xl font-semibold text-gray-100 mt-6"
+    },
+    {
+      "tag": "H2",
+      "text": "3. Account Registration",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "3.1 Requirements",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "3.2 Security",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "3.3 Restrictions",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "4. Service Description",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "4.1 Service Content",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "4.2 Service Changes",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "5. User Conduct Standards",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "5.1 Permitted Use",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "5.2 Prohibited Conduct",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "5.3 Content Policy",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "6. User Content and Intellectual Property Rights",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "6.1 Platform Intellectual Property Rights",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "6.2 User Input Content",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "6.3 Generated Content Attribution",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "6.4 Limited License Granted to Platform",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "6.5 User Feedback",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "7. AI-Generated Content Disclaimer",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "7.1 No Warranty on Output",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "7.2 Third-Party Rights & Copyright Risks",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "7.3 User Responsibility",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "8. Subscription Management and Billing",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "8.1 Payment Finality",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "8.2 Subscriptions and Auto-Renewal",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "8.3 Responsibility for Plan Selection",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "9. Refund Policy",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "9.1 General Principles",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "9.2 AI Output Quality",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "9.3 Statutory Rights by Region",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "9.4 Refund Limitations",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "9.5 Special Refund Scenarios",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "9.6 How to Request a Refund",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "9.7 Disputes and Chargebacks",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "9.8 Abuse and Fraudulent Refund Requests",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "10. Fraud and Abuse",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "10.1 Prohibited Conduct",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "10.2 Enforcement Measures",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "10.3 Chargeback Disputes",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "11. Third-Party Services",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "11.1 Third-Party Links",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "11.2 Third-Party Service Providers",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "12. Disclaimers",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "12.1 Service \"As-Is\"",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "12.2 Warranty Disclaimers",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "13. Limitation of Liability",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "13.1 Indirect Damages Disclaimer",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "13.2 Maximum Compensation Cap",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "14. Indemnification",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H2",
+      "text": "15. Termination",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H3",
+      "text": "15.1 User Termination",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "15.2 Platform Termination",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H3",
+      "text": "15.3 Effect of Termination",
+      "class": "text-xl font-semibold text-gray-100 mb-2"
+    },
+    {
+      "tag": "H2",
+      "text": "16. Dispute Resolution",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H2",
+      "text": "17. General Terms",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H2",
+      "text": "18. Changes to Terms",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    },
+    {
+      "tag": "H2",
+      "text": "19. Contact Us",
+      "class": "text-2xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r fr"
+    }
+  ],
+  "stylesheets": [
+    "https://www.seedance.ai/_next/static/css/82274156851e0130.css",
+    "https://www.seedance.ai/_next/static/css/c0c224ee0831f672.css"
+  ],
+  "meta": {
+    "description": "Terms of Service for Seedance AI Community. Eligibility, account registration, and use of the Service."
+  },
+  "htmlSnippet": "<html lang=\"en\" data-theme=\"dark\" class=\"__className_d8ebd1 h-full overflow-hidden dark\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"><link rel=\"preload\" as=\"image\" href=\"https://cdn.seedance.ai/icon.png\"><link rel=\"preload\" as=\"image\" imagesrcset=\"/_next/image?url=https%3A%2F%2Fcdn.seedance.ai%2Ficon.png&amp;w=32&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.seedance.ai%2Ficon.png&amp;w=64&amp;q=75 2x\" fetchpriority=\"high\"><link rel=\"stylesheet\" href=\"/_next/static/css/82274156851e0130.css\" data-precedence=\"next\"><link rel=\"stylesheet\" href=\"/_next/static/css/c0c224ee0831f672.css\" data-precedence=\"next\"><link rel=\"preload\" as=\"script\" fetchpriority=\"low\" href=\"/_next/static/chunks/webpack-f4b1cab5f7178d7c.js\"><script src=\"/_next/static/chunks/fd9d1056-e04d08e37bb4b4cf.js\" async=\"\"></script><script src=\"/_next/static/chunks/2472-e5095ee66da5ff3f.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-fe8494148f0fcf10.js\" async=\"\"></script><script src=\"/_next/static/chunks/7973-16b7903d4bfbcfa6.js\" async=\"\"></script><script src=\"/_next/static/chunks/2632-72cd44f34a66c58d.js\" async=\"\"></script><script src=\"/_next/static/chunks/4829-8d9b70ef8ffa2be4.js\" async=\"\"></script><script src=\"/_next/static/chunks/3082-08597f2f45d84c9a.js\" async=\"\"></script><script src=\"/_next/static/chunks/3961-0980a1c97d566552.js\" async=\"\"></script><script src=\"/_next/static/chunks/1623-cc379642722dfa18.js\" async=\"\"></script><script src=\"/_next/static/chunks/7899-e9de9483352ec5be.js\" async=\"\"></script><script src=\"/_next/static/chunks/4956-def1c92c7691698c.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\" async=\"\"></script><script src=\"/_next/static/chunks/1152-906d182715794a13.js\" async=\"\"></script><script src=\"/_next/static/chunks/116-dce6822bea0f1f1e.js\" async=\"\"></script><script src=\"/_next/static/chunks/5432-763ed892264e984b.js\" async=\"\"></script><script src=\"/_next/static/chunks/9976-a7f3511478d2de9b.js\" async=\"\"></script><script src=\"/_next/static/chunks/7109-73e81be0a683bf98.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/%5Blocale%5D/error-f28b4ffe7875281e.js\" async=\"\"></script><script src=\"/_next/static/chunks/3985-f73ac7ca2d2efdfc.js\" async=\"\"></script><script src=\"/_next/static/chunks/9224-267169d7289535fe.js\" async=\"\"></script><script src=\"/_next/static/chunks/7633-13062562e8a841dc.js\" async=\"\"></script><script src=\"/_next/static/chunks/2536-b655eb9d6e0ece31.js\" async=\"\"></script><script src=\"/_next/static/chunks/957-354456a38d1c23c9.js\" async=\"\"></script><script src=\"/_next/static/chunks/4100-a90d1eaef4ddc892.js\" async=\"\"></script><script src=\"/_next/static/chunks/5459-2b1bd09fd1ed3c9f.js\" async=\"\"></script><script src=\"/_next/static/chunks/1347-7ff7f2f003f4f16b.js\" async=\"\"></script><script src=\"/_next/static/chunks/2622-85295d99a69093e1.js\" async=\"\"></script><script src=\"/_next/static/chunks/2753-2e63d4e16f448e76.js\" async=\"\"></script><script src=\"/_next/static/chunks/9799-fd9ecf026ce6256a.js\" async=\"\"></script><script src=\"/_next/static/chunks/8337-99ec4e49adb34c61.js\" async=\"\"></script><script src=\"/_next/static/chunks/2047-2cd932463f653ae6.js\" async=\"\"></script><script src=\"/_next/static/chunks/2104-e24f929045974980.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/%5Blocale%5D/not-found-786b96bc3714b7ae.js\" async=\"\"></script><script src=\"/_next/static/chunks/413-4e96353bc198f563.js\" async=\"\"></script><script src=\"/_next/static/chunks/8260-9eb011dde64df111.js\" async=\"\"></script><link rel=\"preload\" href=\"https://stats.seekany.io/script.js\" as=\"script\"><meta name=\"theme-color\" content=\"#570df8\"><title>Seedance AI Community Terms of Service</title><meta name=\"description\" content=\"Terms of Service for Seedance AI Community. Eligibility, account registration, and use of the Service.\"><meta name=\"application-name\" content=\"Seedance AI\"><meta name=\"robots\" content=\"index, follow, nocache\"><meta name=\"googlebot\" content=\"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1\"><meta property=\"og:title\" content=\"Seedance AI\"><meta property=\"og:description\" content=\"Seedance AI - AI platform for text/image-to-video &amp; text-to-image generation. Create professional content with Seedance AI.\"><meta property=\"og:url\" content=\"https://seedance.ai/\"><meta property=\"og:site_name\" content=\"Seedance AI\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:type\" content=\"website\"><meta name=\"twitter:card\" content=\"summary_large_image\"><meta name=\"twitter:creator\" content=\"@redesign\"><meta name=\"twitter:title\" content=\"Seedance AI\"><meta name=\"twitter:description\" content=\"Seedance AI - AI platform for text/image-to-video &amp; text-to-image generation. Create professional content with Seedance AI.\"><link rel=\"icon\" href="
+}

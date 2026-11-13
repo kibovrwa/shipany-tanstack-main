@@ -13,11 +13,7 @@ import {
 } from '@/components/ui/dialog';
 
 export type PaymentProvider =
-  | 'stripe'
-  | 'creem'
-  | 'paypal'
-  | 'alipay'
-  | 'wechat';
+  'waffo' | 'stripe' | 'creem' | 'paypal' | 'alipay' | 'wechat';
 
 interface Props {
   open: boolean;
@@ -30,6 +26,7 @@ interface Props {
 }
 
 const providerLabel: Record<PaymentProvider, string> = {
+  waffo: 'Waffo',
   stripe: 'Stripe',
   creem: 'Creem',
   paypal: 'PayPal',

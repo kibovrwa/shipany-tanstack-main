@@ -29,6 +29,7 @@ const publicKeys = [
   'desktop_auth_schemes',
   'select_payment_enabled',
   'default_payment_provider',
+  'waffo_enabled',
   'stripe_enabled',
   'creem_enabled',
   'paypal_enabled',
@@ -69,6 +70,14 @@ async function GET({ request }: { request: Request }) {
     configs.email_verification_enabled === 'true' && emailConfigured
       ? 'true'
       : 'false';
+  // Surface Waffo when keys exist even if the admin switch hasn't been toggled.
+  if (
+    result.waffo_enabled !== 'true' &&
+    (configs.waffo_merchant_id || configs.WAFFO_MERCHANT_ID) &&
+    (configs.waffo_private_key || configs.WAFFO_PRIVATE_KEY)
+  ) {
+    result.waffo_enabled = 'true';
+  }
   return respData(result, noStore);
 }
 

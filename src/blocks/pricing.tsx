@@ -34,6 +34,7 @@ import {
 } from '@/components/pricing-table';
 
 const ALL_PROVIDERS: PaymentProvider[] = [
+  'waffo',
   'stripe',
   'creem',
   'paypal',

@@ -7,6 +7,7 @@ import { usePublicConfig } from '@/hooks/use-public-config';
 import type { PaymentProvider } from '@/components/payment-provider-modal';
 
 const ALL_PROVIDERS: PaymentProvider[] = [
+  'waffo',
   'stripe',
   'creem',
   'paypal',

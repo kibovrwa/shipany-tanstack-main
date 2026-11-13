@@ -7,6 +7,7 @@ import {
   CreemProvider,
   PaymentManager,
   StripeProvider,
+  WaffoProvider,
   WechatPayProvider,
 } from '@/core/payment';
 import {
@@ -73,6 +74,8 @@ async function getPaymentManager(): Promise<PaymentManager> {
     c('creem_api_key'),
     c('alipay_app_id'),
     c('wechat_mch_id'),
+    c('waffo_merchant_id') || c('WAFFO_MERCHANT_ID'),
+    c('waffo_private_key') || c('WAFFO_PRIVATE_KEY'),
     c('default_payment_provider'),
   ]);
   if (manager && hash === managerConfigHash) return manager;
@@ -80,10 +83,36 @@ async function getPaymentManager(): Promise<PaymentManager> {
   manager = new PaymentManager();
   managerConfigHash = hash;
 
+  const waffoMerchant = c('waffo_merchant_id') || c('WAFFO_MERCHANT_ID') || '';
+  const waffoKey = c('waffo_private_key') || c('WAFFO_PRIVATE_KEY') || '';
+  if (waffoMerchant && waffoKey) {
+    const productMap: Record<string, string> = {};
+    for (const [key, value] of Object.entries(configs)) {
+      if (key.startsWith('waffo_product_') && value) {
+        productMap[key.slice('waffo_product_'.length)] = value;
+      }
+    }
+    const isDefault =
+      !c('default_payment_provider') ||
+      c('default_payment_provider') === 'waffo';
+    manager.addProvider(
+      new WaffoProvider({
+        merchantId: waffoMerchant,
+        privateKey: waffoKey,
+        storeSlug: c('waffo_store_slug') || undefined,
+        environment:
+          c('waffo_environment') === 'production' ? 'production' : 'test',
+        webhookPublicKey: c('waffo_webhook_public_key') || undefined,
+        productMap,
+      }),
+      isDefault
+    );
+  }
+
   const stripeKey = c('stripe_secret_key') || c('stripe_api_key');
   if (stripeKey) {
     const isDefault =
-      !c('default_payment_provider') ||
+      (!c('default_payment_provider') && !(waffoMerchant && waffoKey)) ||
       c('default_payment_provider') === 'stripe';
     manager.addProvider(
       new StripeProvider({

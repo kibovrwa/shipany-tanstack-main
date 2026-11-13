@@ -129,6 +129,12 @@ export function getSettingGroups(): SettingGroup[] {
       tab: 'payment',
     },
     {
+      name: 'waffo',
+      title: 'Waffo',
+      description: 'Waffo Pancake merchant-of-record checkout',
+      tab: 'payment',
+    },
+    {
       name: 'stripe',
       title: 'Stripe',
       description: 'Stripe payment gateway',
@@ -599,6 +605,7 @@ export function getSettings(): Setting[] {
       title: 'Default provider',
       type: 'select',
       options: [
+        { label: 'Waffo', value: 'waffo' },
         { label: 'Stripe', value: 'stripe' },
         { label: 'Creem', value: 'creem' },
         { label: 'PayPal', value: 'paypal' },
@@ -606,6 +613,58 @@ export function getSettings(): Setting[] {
         { label: 'WeChat Pay', value: 'wechat' },
       ],
       group: 'basic_payment',
+      tab: 'payment',
+    },
+
+    // ─── Payment / Waffo ─────────────────────────────────────────────
+    {
+      name: 'waffo_enabled',
+      title: 'Enable Waffo',
+      type: 'switch',
+      group: 'waffo',
+      tab: 'payment',
+    },
+    {
+      name: 'waffo_merchant_id',
+      title: 'Merchant ID',
+      type: 'text',
+      placeholder: 'from Dashboard → API & Development',
+      group: 'waffo',
+      tab: 'payment',
+    },
+    {
+      name: 'waffo_private_key',
+      title: 'Private Key',
+      type: 'password',
+      placeholder: 'RSA private key PEM',
+      group: 'waffo',
+      tab: 'payment',
+    },
+    {
+      name: 'waffo_store_slug',
+      title: 'Store Slug',
+      type: 'text',
+      placeholder: 'optional for REST fallback',
+      group: 'waffo',
+      tab: 'payment',
+    },
+    {
+      name: 'waffo_environment',
+      title: 'Environment',
+      type: 'select',
+      options: [
+        { label: 'Test', value: 'test' },
+        { label: 'Production', value: 'production' },
+      ],
+      group: 'waffo',
+      tab: 'payment',
+    },
+    {
+      name: 'waffo_webhook_public_key',
+      title: 'Webhook Public Key',
+      type: 'password',
+      placeholder: 'from Settings → Webhooks',
+      group: 'waffo',
       tab: 'payment',
     },
 

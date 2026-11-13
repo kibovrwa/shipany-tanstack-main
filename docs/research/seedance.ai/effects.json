@@ -1,0 +1,1298 @@
+{
+  "title": "AI Effects for Videos - Free AI Video Templates | Seedance AI",
+  "url": "https://www.seedance.ai/effects",
+  "fonts": [
+    "__Inter_d8ebd1, __Inter_Fallback_d8ebd1",
+    "Arial, Helvetica, sans-serif",
+    "-apple-system, BlinkMacSystemFont, \"SF Pro Display\", system-ui, sans-serif",
+    "-apple-system, BlinkMacSystemFont, \"SF Pro Text\", system-ui, sans-serif",
+    "\"JetBrains Mono\", ui-monospace, Menlo, monospace"
+  ],
+  "bodyBg": "rgb(10, 10, 10)",
+  "bodyColor": "rgb(250, 250, 250)",
+  "bodyFont": "Arial, Helvetica, sans-serif",
+  "links": [
+    {
+      "href": "/",
+      "text": "Seedance AI"
+    },
+    {
+      "href": "/discover",
+      "text": "Inspiration"
+    },
+    {
+      "href": "/ai-actor-ip",
+      "text": "IP Actor"
+    },
+    {
+      "href": "/ai-image-generator",
+      "text": "AI Image GeneratorDescribe a scene, generate images instantly"
+    },
+    {
+      "href": "/ai-image-editor",
+      "text": "AI Image EditorEdit, inpaint, and refine generated images"
+    },
+    {
+      "href": "/ai-region-edit",
+      "text": "AI Region EditComment, remove background, erase objects, or crop an image with G"
+    },
+    {
+      "href": "/ai-paint",
+      "text": "AI PaintSketch on a canvas and generate images with GPT Image"
+    },
+    {
+      "href": "/ai-image-generator?model=flux-3-text-to-image",
+      "text": "FLUX 3Text and up to 10 reference images, up to 4K"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-flare",
+      "text": "GPT Image 2.6 FlareFast text-to-image and edit, GIF and SVG"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-sunburst",
+      "text": "GPT Image 2.6 SunburstHigher fidelity text-to-image and edit"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-flare",
+      "text": "GPT Image 2.5 FlareFast everyday generation and iteration"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-sunburst",
+      "text": "GPT Image 2.5 SunburstHigher edit precision and subject fidelity"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-text-to-image",
+      "text": "GPT Image 2Strong prompt understanding, vivid detail"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2.1-text-to-image",
+      "text": "Nano Banana 2.14K generation and reference-image edits"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2-text-to-image",
+      "text": "Nano Banana 2Fast creative generation, stylized output"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-pro-text-to-image",
+      "text": "Nano Banana ProHigher resolution, refined textures"
+    },
+    {
+      "href": "/ai-image-generator?model=z-image-turbo",
+      "text": "Z Image TurboUltra-fast preview, low-latency generation"
+    },
+    {
+      "href": "/text-to-video-ai",
+      "text": "Text to VideoDescribe a scene, generate dynamic video"
+    },
+    {
+      "href": "/image-to-video-ai",
+      "text": "Image to VideoBring still images to life"
+    },
+    {
+      "href": "/ai-video-editor",
+      "text": "AI Video EditorEdit, trim, and refine video clips"
+    },
+    {
+      "href": "/effects",
+      "text": "AI Video EffectsOne-click templates and style presets"
+    },
+    {
+      "href": "/kling-video-ai",
+      "text": "Kling AIHigh motion, fluid character movement"
+    },
+    {
+      "href": "/google-veo-ai",
+      "text": "Google Veo AICinematic quality, long-form scenes"
+    },
+    {
+      "href": "/hailuo-ai-video",
+      "text": "Minimax H3Advanced multimodal video generation"
+    },
+    {
+      "href": "/wan-ai",
+      "text": "Wan AIFast generation, low latency preview"
+    },
+    {
+      "href": "/kling-video-ai?model=kling-v4.0-text-to-video",
+      "text": "Kling 4.0 AIHigh-quality video, complex stories, precise control"
+    },
+    {
+      "href": "/home-design",
+      "text": "Home DesignFurnish an empty room in a chosen style without changing the layout"
+    },
+    {
+      "href": "/ai-tools/image-to-illustration",
+      "text": "Image to IllustrationTurn a photo into an illustration, as a collage or a finish"
+    },
+    {
+      "href": "/grok-bot-avatar-generator",
+      "text": "Grok Bot AvatarMake a Grok Bot style face or full-body avatar for X, Discord, an"
+    },
+    {
+      "href": "/ai-fuse-bead-generator",
+      "text": "AI Fuse Bead GeneratorTurn a reference image into realistic handmade fuse bead a"
+    },
+    {
+      "href": "/ai-football-league",
+      "text": "AI Football LeagueGenerate match highlights, team scenes, and league moments"
+    },
+    {
+      "href": "/ai-pose",
+      "text": "AI Pose ChangerChange character poses and body positions in images and video"
+    },
+    {
+      "href": "/ai-pet-papercraft",
+      "text": "AI Pet PapercraftTurn a pet photo into a printable 3D papercraft template"
+    },
+    {
+      "href": "/ai-doodle-selfie",
+      "text": "AI Doodle SelfieTurn selfies into playful doodle-style portraits and sketches"
+    },
+    {
+      "href": "/ai-idol",
+      "text": "AI IdolTurn your photo into the star of a cinematic AI idol performance"
+    },
+    {
+      "href": "/text-to-speech-ai",
+      "text": "AI AudioText to speech, voice clone, lip sync, and more audio tools"
+    },
+    {
+      "href": "/ai-tools/halloween-ai",
+      "text": "Halloween AITurn one photo into a spooky Halloween portrait or a short themed vi"
+    },
+    {
+      "href": "/ai-dance/baby-dance-ai",
+      "text": "AI Baby DanceTurn photos into adorable dancing baby videos"
+    },
+    {
+      "href": "/ai-hairstyle-changer",
+      "text": "Hairstyle ChangerTry different hairstyles on portraits and characters"
+    },
+    {
+      "href": "/ai-hair-color-changer",
+      "text": "Hair Color ChangerChange hair color in photos and video"
+    },
+    {
+      "href": "/image-to-gif",
+      "text": "Image to GIFTurn a photo or a motion description into a looping GIF"
+    },
+    {
+      "href": "/3d_ai",
+      "text": "AI 3D Model GeneratorTurn text or a photo into a textured 3D model (GLB or FBX)"
+    },
+    {
+      "href": "/ai-tools",
+      "text": "Explore more AI Tools →"
+    },
+    {
+      "href": "/pricing",
+      "text": "Pricing"
+    },
+    {
+      "href": "/signin?from=%2Feffects",
+      "text": "Login"
+    },
+    {
+      "href": "/discover",
+      "text": "Inspiration"
+    },
+    {
+      "href": "/ai-actor-ip",
+      "text": "IP Actor"
+    },
+    {
+      "href": "/ai-image-generator",
+      "text": "AI Image Generator"
+    },
+    {
+      "href": "/ai-image-editor",
+      "text": "AI Image Editor"
+    },
+    {
+      "href": "/ai-region-edit",
+      "text": "AI Region Edit"
+    },
+    {
+      "href": "/ai-paint",
+      "text": "AI Paint"
+    },
+    {
+      "href": "/ai-image-generator?model=flux-3-text-to-image",
+      "text": "FLUX 3Text and up to 10 reference images, up to 4K"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-flare",
+      "text": "GPT Image 2.6 FlareFast text-to-image and edit, GIF and SVG"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-6-sunburst",
+      "text": "GPT Image 2.6 SunburstHigher fidelity text-to-image and edit"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-flare",
+      "text": "GPT Image 2.5 FlareFast everyday generation and iteration"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-5-sunburst",
+      "text": "GPT Image 2.5 SunburstHigher edit precision and subject fidelity"
+    },
+    {
+      "href": "/ai-image-generator?model=gpt-image-2-text-to-image",
+      "text": "GPT Image 2Strong prompt understanding, vivid detail"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2.1-text-to-image",
+      "text": "Nano Banana 2.14K generation and reference-image edits"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-2-text-to-image",
+      "text": "Nano Banana 2Fast creative generation, stylized output"
+    },
+    {
+      "href": "/ai-image-generator?model=nano-banana-pro-text-to-image",
+      "text": "Nano Banana ProHigher resolution, refined textures"
+    },
+    {
+      "href": "/ai-image-generator?model=z-image-turbo",
+      "text": "Z Image TurboUltra-fast preview, low-latency generation"
+    },
+    {
+      "href": "/text-to-video-ai",
+      "text": "Text to Video"
+    },
+    {
+      "href": "/image-to-video-ai",
+      "text": "Image to Video"
+    },
+    {
+      "href": "/ai-video-editor",
+      "text": "AI Video Editor"
+    },
+    {
+      "href": "/effects",
+      "text": "AI Video Effects"
+    },
+    {
+      "href": "/kling-video-ai",
+      "text": "Kling AIHigh motion, fluid character movement"
+    },
+    {
+      "href": "/google-veo-ai",
+      "text": "Google Veo AICinematic quality, long-form scenes"
+    },
+    {
+      "href": "/hailuo-ai-video",
+      "text": "Minimax H3Advanced multimodal video generation"
+    },
+    {
+      "href": "/wan-ai",
+      "text": "Wan AIFast generation, low latency preview"
+    },
+    {
+      "href": "/kling-video-ai?model=kling-v4.0-text-to-video",
+      "text": "Kling 4.0 AIHigh-quality video, complex stories, precise control"
+    },
+    {
+      "href": "/home-design",
+      "text": "Home Design"
+    },
+    {
+      "href": "/ai-tools/image-to-illustration",
+      "text": "Image to Illustration"
+    },
+    {
+      "href": "/grok-bot-avatar-generator",
+      "text": "Grok Bot Avatar"
+    },
+    {
+      "href": "/ai-fuse-bead-generator",
+      "text": "AI Fuse Bead Generator"
+    },
+    {
+      "href": "/ai-football-league",
+      "text": "AI Football League"
+    },
+    {
+      "href": "/ai-pose",
+      "text": "AI Pose Changer"
+    },
+    {
+      "href": "/ai-pet-papercraft",
+      "text": "AI Pet Papercraft"
+    },
+    {
+      "href": "/ai-doodle-selfie",
+      "text": "AI Doodle Selfie"
+    },
+    {
+      "href": "/ai-idol",
+      "text": "AI Idol"
+    },
+    {
+      "href": "/text-to-speech-ai",
+      "text": "AI Audio"
+    },
+    {
+      "href": "/ai-tools/halloween-ai",
+      "text": "Halloween AI"
+    },
+    {
+      "href": "/ai-dance/baby-dance-ai",
+      "text": "AI Baby Dance"
+    },
+    {
+      "href": "/ai-hairstyle-changer",
+      "text": "Hairstyle Changer"
+    },
+    {
+      "href": "/ai-hair-color-changer",
+      "text": "Hair Color Changer"
+    },
+    {
+      "href": "/image-to-gif",
+      "text": "Image to GIF"
+    },
+    {
+      "href": "/3d_ai",
+      "text": "AI 3D Model Generator"
+    },
+    {
+      "href": "/ai-tools",
+      "text": "Explore more AI Tools →"
+    },
+    {
+      "href": "/pricing",
+      "text": "Pricing"
+    },
+    {
+      "href": "/discover",
+      "text": "Inspiration"
+    },
+    {
+      "href": "/ai-actor-ip",
+      "text": "Ip Actor"
+    },
+    {
+      "href": "/ai-tools",
+      "text": "AI Tools"
+    },
+    {
+      "href": "/ai-image-generator",
+      "text": "AI Image Generator"
+    },
+    {
+      "href": "/ai-image-editor",
+      "text": "AI Image Editor"
+    },
+    {
+      "href": "/ai-region-edit",
+      "text": "AI Region Edit"
+    },
+    {
+      "href": "/ai-paint",
+      "text": "AI Paint"
+    },
+    {
+      "href": "/text-to-speech-ai",
+      "text": "Text to Speech"
+    },
+    {
+      "href": "/text-to-video-ai",
+      "text": "Text to Video"
+    },
+    {
+      "href": "/image-to-video-ai",
+      "text": "Image to Video"
+    },
+    {
+      "href": "/ai-video-editor",
+      "text": "AI Video Editor"
+    },
+    {
+      "href": "/effects",
+      "text": "AI Video Effects"
+    },
+    {
+      "href": "/wan-ai",
+      "text": "Wan AI"
+    },
+    {
+      "href": "/google-veo-ai",
+      "text": "Google Veo AI"
+    },
+    {
+      "href": "/kling-video-ai",
+      "text": "Kling AI Video"
+    },
+    {
+      "href": "/hailuo-ai-video",
+      "text": "Hailuo AI Video"
+    },
+    {
+      "href": "/ai-actor-ip/ip-assets",
+      "text": "Ip Assets"
+    },
+    {
+      "href": "/history",
+      "text": "Generate History"
+    },
+    {
+      "href": "/",
+      "text": "seedance.ai"
+    },
+    {
+      "href": "mailto:help@seedance.ai",
+      "text": "Contact Us\nhelp@seedance.ai"
+    },
+    {
+      "href": "/refund-policy",
+      "text": "Refund Policy"
+    },
+    {
+      "href": "/about",
+      "text": "About Us"
+    },
+    {
+      "href": "/version-hub",
+      "text": "Community Hub"
+    },
+    {
+      "href": "/terms",
+      "text": "Terms of services"
+    },
+    {
+      "href": "/privacy-policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "/content-policy",
+      "text": "Content policy"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.seedance.ai/icon.png",
+      "alt": "Seedance AI logo",
+      "w": 499,
+      "h": 500
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/dd65c4e2-b140-44a6-bdd6-28346206b783.png",
+      "alt": "Labubu Transformation",
+      "w": 1067,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/c208d09a-1b4f-4b5b-b665-3b023b58580c.png",
+      "alt": "Become Santa Claus",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/0b1e5734-de35-44f7-b59c-25d4f9e2b2d1.png",
+      "alt": "Labubu Transformation (Blind Box Version)",
+      "w": 420,
+      "h": 256
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/c639142d-7a02-4afc-a026-b4ba63f841f1.png",
+      "alt": "Power Dance Shake",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/88f0c323-cff1-4d13-b64b-b2c626b805fc.png",
+      "alt": "Ghibli Style",
+      "w": 924,
+      "h": 1140
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/eb135933-6692-4288-a814-cfffb7114d84.png",
+      "alt": "Grand Blueprint",
+      "w": 768,
+      "h": 1360
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/3f4bebeb-8e14-490e-b9b5-63de8e3d38bc.png",
+      "alt": "Squid Game",
+      "w": 1360,
+      "h": 768
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/f50262a8-d571-4983-a3ef-9d60a9768c42.png",
+      "alt": "French Kiss",
+      "w": 1360,
+      "h": 768
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/feff3c1e-4ac8-41b4-b7e2-9b15f47bdc4d.png",
+      "alt": "2.0 Hugging",
+      "w": 1360,
+      "h": 768
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/df000c39-4da1-4bb7-a9b4-e0e6d770330b.png",
+      "alt": "Fairy Me",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/09724541-944b-426d-b994-dc7f7a68ad31.png",
+      "alt": "Rain Kiss",
+      "w": 1360,
+      "h": 768
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/50d86bf0-6919-42e8-8155-cd03c4941ba9.png",
+      "alt": "Victory Dance",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/8b88856d-2cd7-4f71-9bf0-0f655c971024.png",
+      "alt": "Flower Receiving Moment",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/ff89cac7-37c5-4189-91e9-701ff3be7824.png",
+      "alt": "Animal Diving Show",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/5d58a70d-8ef9-4b69-b961-4eb9fec6fc7e.png",
+      "alt": "Pet Belly Dance",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/f2ae0cd1-a6ad-4253-94d6-59950b8890eb.png",
+      "alt": "Pet Split Stance",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/c5a0751f-e6fe-4884-87d6-40df6f9b2654.png",
+      "alt": "Make Funny Face",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/8697db7d-6ebe-44c6-a2c1-5f3fed0453f8.png",
+      "alt": "Blow Kiss",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/c5475ed1-676e-4752-a946-0513e083575a.png",
+      "alt": "One-Take Zoom In",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/7d8b50d6-5431-477f-9c85-7d009b89089c.png",
+      "alt": "Transform into Captain America",
+      "w": 1344,
+      "h": 768
+    },
+    {
+      "src": "https://cdn.seedance.ai/jpeg/e14c93c6-d69f-4ccb-825a-e0ccf349f6d3.jpg",
+      "alt": "Exotic Princess",
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "src": "https://scene.vidu.zone/media-asset/104048-YgoN5G33absbR9TW.png",
+      "alt": "Pet to Human-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.vidu.zone/media-asset/034115-XcZ8seA5Pcf5mOD8.png",
+      "alt": "Muscling-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://cdn.seedance.ai/png/7662131b-7f0a-4442-b9ea-5e805f36bb2d.png",
+      "alt": "Santa Claus Comes to Hug",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.vidu.zone/media-asset/071740-MMCnUA2mo4R71Vec.png",
+      "alt": "Ballon Flyaway-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/022221-2aaPycFEXx9gnzV7.png",
+      "alt": "Kissing everywhere randomly 8s",
+      "w": 2337,
+      "h": 1528
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/073626-2an9Q2DFf0aD5UtW.png",
+      "alt": "Running at high speed-Pet",
+      "w": 1691,
+      "h": 1180
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/075308-ynsjwcQeJwudfokt.png",
+      "alt": "Random Pokémon-Style Metamorphosis",
+      "w": 3224,
+      "h": 2160
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/062648-R1hyrbamAlV8THdm.png",
+      "alt": "\nPicking the Mini Self",
+      "w": 3464,
+      "h": 2160
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Interactive/Interactive/hugging_cover.png",
+      "alt": "Hugging-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Interactive/Interactive/kissing_cover.png",
+      "alt": "Kissing-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Interactive/Interactive/bixin_cover.jpeg",
+      "alt": "Finger Heart-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Festival/Festival/shengdansongli_cover.png",
+      "alt": "Santa Claus Delivering Gifts-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Festival/Festival/jubeiqingzhu_cover.png",
+      "alt": "Christmas Toast Celebration-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Festival/Festival/shengdanyongbao_cover.png",
+      "alt": "Santa Claus Offering a Hug-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Funny/Funny/nienie_cover.jpeg",
+      "alt": "Pinching-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Funny/Funny/baozha_cover.jpeg",
+      "alt": "Explosion-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Funny/Funny/ronghua_cover.jpeg",
+      "alt": "Melt-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Transformation/0317/Qwanou_cover.png",
+      "alt": "Cartoon Doll-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Dynamic/Dynamic/tianmeiweixiao_cover.jpeg",
+      "alt": "Sweet smile-360p",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/093015-urytnOBoizTsqQZz.png",
+      "alt": "Shake it Down",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.vidu.zone/media-asset/095635-lpjuT68sFglnBCcZ.png",
+      "alt": "Leg Sweep Dance",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/063804-kUIUpASV2Ez4cQka.png",
+      "alt": "Pop Art",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/080334-vnHTJtw280wgcnje.png",
+      "alt": "JOJO style",
+      "w": 1068,
+      "h": 600
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/015429-5hRSbMuZLnpjkXNp.png",
+      "alt": "Emoji figure",
+      "w": 1615,
+      "h": 1080
+    },
+    {
+      "src": "https://scene.cf.vidu.studio/media-asset/100403-N64i1pzekqsnVMEe.png",
+      "alt": "The balloon man explodes-Pro",
+      "w": 1743,
+      "h": 1112
+    },
+    {
+      "src": "https://www.seedance.ai/_next/image?url=https%3A%2F%2Fcdn.seedance.ai%2Ficon.png&w=32&q=75",
+      "alt": "Seedance AI logo",
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "videos": [],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "STYLE",
+      "id": "",
+      "class": "",
+      "text": "#nprogress{pointer-events:none}#nprogress .bar{background:#570df8;position:fixed;z-index:1031;top:0;left:0;width:100%;height:3px}#nprogress .peg{display:block;position:absolute;right:0;width:100px;height:100%;box-shadow:0 0 10px #570df8,0 0 5px #570df8;opacity:1;-webkit-transform:rotate(3deg) translate(0px,-4px);-ms-transform:rotate(3deg) translate(0px,-4px);transform:rotate(3deg) translate(0px,-4px)}#nprogress .spinner{display:block;position:fixed;z-index:1031;top:15px;right:15px}#nprogress .sp",
+      "h": 0
+    },
+    {
+      "i": 1,
+      "tag": "DIV",
+      "id": "",
+      "class": "sd-header-root",
+      "text": "Seedance AI Pricing Login",
+      "h": 0
+    },
+    {
+      "i": 2,
+      "tag": "HEADER",
+      "id": "",
+      "class": "sd-header sd-header--nav-hidden",
+      "text": "Seedance AI Pricing Login",
+      "h": 64
+    },
+    {
+      "i": 3,
+      "tag": "MAIN",
+      "id": "",
+      "class": "overscroll-none pt-[64px]",
+      "text": "Inspiration Ip Actor AI Tools Image AI AI Image Generator AI Image Editor AI Region Edit AI Paint Audio AI Text to Speech Video AI Text to Video Image to Video AI Video Editor AI Video Effects Wan AI Google Veo AI Kling AI Video Hailuo AI Video Ip Assets Generate History Upgrade to Pro Effect Templates Choose your favorite effect template to create stunning video effects All (46) Transformation Templates (9) Festival Templates (2) Dynamic Templates (3) Interactive Templates (4) Funny Templates (",
+      "h": 900
+    },
+    {
+      "i": 4,
+      "tag": "SECTION",
+      "id": "",
+      "class": "min-h-[calc(100vh-64px)]",
+      "text": "Inspiration Ip Actor AI Tools Image AI AI Image Generator AI Image Editor AI Region Edit AI Paint Audio AI Text to Speech Video AI Text to Video Image to Video AI Video Editor AI Video Effects Wan AI Google Veo AI Kling AI Video Hailuo AI Video Ip Assets Generate History Upgrade to Pro Effect Templates Choose your favorite effect template to create stunning video effects All (46) Transformation Templates (9) Festival Templates (2) Dynamic Templates (3) Interactive Templates (4) Funny Templates (",
+      "h": 836
+    },
+    {
+      "i": 5,
+      "tag": "FOOTER",
+      "id": "",
+      "class": "relative bg-[#0C0C0C] border-t border-white/[0.08] w-full",
+      "text": "seedance.ai Copyright seedance.ai © 2026 - All rights reserved LINKS Contact Us help@seedance.ai Refund Policy About Us Community Hub LEGAL Terms of services Privacy policy Content policy LANGUAGE 🇺🇸 English",
+      "h": 257
+    },
+    {
+      "i": 6,
+      "tag": "DIV",
+      "id": "",
+      "class": "",
+      "text": "",
+      "h": 868
+    },
+    {
+      "i": 7,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 8,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])",
+      "h": 0
+    },
+    {
+      "i": 9,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"0:\\\"$L1\\\"\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 10,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"2:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n3:HL[\\\"/_next/static/css/82274156851e0130.css\\\",\\\"style\\\"]\\n4:HL[\\\"/_next/static/css/c0c224ee0831f672.css\\\",\\\"style\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 11,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"5:I[33728,[],\\\"\\\"]\\n7:I[29928,[],\\\"\\\"]\\n8:I[56954,[],\\\"\\\"]\\n9:I[7264,[],\\\"\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 12,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"1:[null,[\\\"$\\\",\\\"$L5\\\",null,{\\\"buildId\\\":\\\"8U7kEAkUpzkNIwmonnARi\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"initialCanonicalUrl\\\":\\\"/effects\\\",\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[[\\\"locale\\\",\\\"en\\\",\\\"d\\\"],{\\\"children\\\":[\\\"effects\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true]}],\\\"initialHead\\\":[false,\\\"$L6\\\"],\\\"globalErrorComponent\\\":\\\"$7\\\",\\\"children\\\":[\\\"$\\\",\\\"$L8\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\",
+      "h": 0
+    },
+    {
+      "i": 13,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"b:I[98519,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-3",
+      "h": 0
+    },
+    {
+      "i": 14,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"GlobalStateProvider\\\"]\\n",
+      "h": 0
+    },
+    {
+      "i": 15,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"ic/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\nf:I[22684,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d",
+      "h": 0
+    },
+    {
+      "i": 16,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"tatic/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\n10:I[73994,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd",
+      "h": 0
+    },
+    {
+      "i": 17,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 18,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"a:[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"data-theme\\\":\\\"light\\\",\\\"className\\\":\\\"__className_d8ebd1 h-full overflow-hidden dark\\\",\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"favicon.ico\\\"}]}],[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"h-full overflow-auto overscroll-none [\\u0026::-webkit-scrollbar]:hidden [\\u0026::-webkit-scrollbar]:w-2 [\\u0026::-webkit-scrollbar-track]:bg-gray-900/50 [\\u0026::-webkit-scrollbar-thumb]:bg-gr",
+      "h": 0
+    },
+    {
+      "i": 19,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"6:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"theme-color\\\",\\\"content\\\":\\\"#570df8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"3\\\",{\\\"children\\\":\\\"AI Effects for Videos - Free AI Video Templates | Seedance AI\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Discover 40+ free AI video effects \\u0026 templates ",
+      "h": 0
+    },
+    {
+      "i": 20,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"11:I[50580,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-",
+      "h": 0
+    },
+    {
+      "i": 21,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"03d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"\\\"]\\n13:I[70932,[\\\"797",
+      "h": 0
+    },
+    {
+      "i": 22,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"2cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\",\\\"1623\\\",\\\"static/chunks/1623-cc379642722dfa18.js\\\",\\\"7899\\\",\\\"static/chunks/7899-e9de9483352ec5be.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"1203\\\",\\\"static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\\\"],\\\"LoadingProvider\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 23,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"14:I[87531,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\\"9976\\\",\\\"static/chunks/9976-a7f3511478d2de9b.js\\\"",
+      "h": 0
+    },
+    {
+      "i": 24,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"15:I[76198,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"3985\\\",\\\"static/chunks/3985-f73ac7ca2d2efdfc.js\\\",\\\"3961\\\",\\\"static/chunks/3961-0980a1c97d566552.js\\\"",
+      "h": 0
+    },
+    {
+      "i": 25,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"16:I[67434,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"413\\\",\\\"static/chunks/413-4e96353bc198f563.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\",
+      "h": 0
+    },
+    {
+      "i": 26,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"17:I[48096,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"413\\\",\\\"static/chunks/413-4e96353bc198f563.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\",
+      "h": 0
+    },
+    {
+      "i": 27,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"1a:I[9277,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2622\\\",\\\"static/chunks/2622-85295d99a69093e1.js\\\",\\\"4173\\\",\\\"static/chunks/app/%5Blocale%5D/effects/page-7496525d01d84b00.js\\\"],\\\"\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 28,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"1b:I[71208,[\\\"7973\\\",\\\"static/chunks/7973-16b7903d4bfbcfa6.js\\\",\\\"2632\\\",\\\"static/chunks/2632-72cd44f34a66c58d.js\\\",\\\"4829\\\",\\\"static/chunks/4829-8d9b70ef8ffa2be4.js\\\",\\\"3082\\\",\\\"static/chunks/3082-08597f2f45d84c9a.js\\\",\\\"413\\\",\\\"static/chunks/413-4e96353bc198f563.js\\\",\\\"1152\\\",\\\"static/chunks/1152-906d182715794a13.js\\\",\\\"116\\\",\\\"static/chunks/116-dce6822bea0f1f1e.js\\\",\\\"5432\\\",\\\"static/chunks/5432-763ed892264e984b.js\\\",\\\"4956\\\",\\\"static/chunks/4956-def1c92c7691698c.js\\\",\\",
+      "h": 0
+    },
+    {
+      "i": 29,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"18:[\\\"locale\\\",\\\"en\\\",\\\"d\\\"]\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 30,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"e:[\\\"$\\\",\\\"$L11\\\",null,{\\\"locale\\\":\\\"en\\\",\\\"now\\\":\\\"$D2026-11-13T10:14:46.082Z\\\",\\\"timeZone\\\":\\\"UTC\\\",\\\"messages\\\":{\\\"Metadata\\\":{\\\"homeTitle\\\":\\\"Seedance AI –Generate Video, Image \\u0026 Voice｜AI Tools\\\",\\\"homeDescription\\\":\\\"Seedance AI Video | Professional toolkit to create stunning AI videos, images \\u0026 natural voiceovers. Produce perfect Seedance Videos, Images \\u0026 Voice content.\\\"},\\\"Hero\\\":{\\\"H1-name-1\\\":\\\"If you can dream it,\\\",\\\"H1-name-2\\\":\\\"Seedance AI\\\",\\",
+      "h": 0
+    },
+    {
+      "i": 31,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"19:null\\n\"])",
+      "h": 0
+    },
+    {
+      "i": 32,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "self.__next_f.push([1,\"\"])",
+      "h": 0
+    },
+    {
+      "i": 33,
+      "tag": "SCRIPT",
+      "id": "",
+      "class": "",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 34,
+      "tag": "SCRIPT",
+      "id": "umami-script",
+      "class": "",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 35,
+      "tag": "NEXT-ROUTE-ANNOUNCER",
+      "id": "",
+      "class": "",
+      "text": "",
+      "h": 0
+    }
+  ],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Effect Templates",
+      "class": "text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-60"
+    },
+    {
+      "tag": "H3",
+      "text": "Labubu Transformation",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Become Santa Claus",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Labubu Transformation (Blind Box Version)",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Power Dance Shake",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Ghibli Style",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Grand Blueprint",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Squid Game",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "French Kiss",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "2.0 Hugging",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Fairy Me",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Rain Kiss",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Victory Dance",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Flower Receiving Moment",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Animal Diving Show",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Pet Belly Dance",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Pet Split Stance",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Make Funny Face",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Blow Kiss",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "One-Take Zoom In",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Transform into Captain America",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Exotic Princess",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Pet to Human-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Muscling-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Santa Claus Comes to Hug",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Ballon Flyaway-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Kissing everywhere randomly 8s",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Running at high speed-Pet",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Random Pokémon-Style Metamorphosis",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Picking the Mini Self",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Hugging-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Kissing-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Finger Heart-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Santa Claus Delivering Gifts-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Christmas Toast Celebration-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Santa Claus Offering a Hug-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Pinching-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Explosion-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Melt-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Cartoon Doll-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Sweet smile-360p",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Shake it Down",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Leg Sweep Dance",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Pop Art",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "JOJO style",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "Emoji figure",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    },
+    {
+      "tag": "H3",
+      "text": "The balloon man explodes-Pro",
+      "class": "text-xl font-bold text-gray-800 dark:text-white mb-2 group-hover:text-blue-600 d"
+    }
+  ],
+  "stylesheets": [
+    "https://www.seedance.ai/_next/static/css/82274156851e0130.css",
+    "https://www.seedance.ai/_next/static/css/c0c224ee0831f672.css"
+  ],
+  "meta": {
+    "description": "Discover 40+ free AI video effects & templates with Seedance AI! Effortlessly create stunning videos using cutting-edge AI technology. Try now!"
+  },
+  "htmlSnippet": "<html lang=\"en\" data-theme=\"dark\" class=\"__className_d8ebd1 h-full overflow-hidden dark\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"><link rel=\"preload\" as=\"image\" href=\"https://cdn.seedance.ai/icon.png\"><link rel=\"preload\" as=\"image\" imagesrcset=\"/_next/image?url=https%3A%2F%2Fcdn.seedance.ai%2Ficon.png&amp;w=32&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.seedance.ai%2Ficon.png&amp;w=64&amp;q=75 2x\" fetchpriority=\"high\"><link rel=\"stylesheet\" href=\"/_next/static/css/82274156851e0130.css\" data-precedence=\"next\"><link rel=\"stylesheet\" href=\"/_next/static/css/c0c224ee0831f672.css\" data-precedence=\"next\"><link rel=\"preload\" as=\"script\" fetchpriority=\"low\" href=\"/_next/static/chunks/webpack-f4b1cab5f7178d7c.js\"><script src=\"/_next/static/chunks/fd9d1056-e04d08e37bb4b4cf.js\" async=\"\"></script><script src=\"/_next/static/chunks/2472-e5095ee66da5ff3f.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-fe8494148f0fcf10.js\" async=\"\"></script><script src=\"/_next/static/chunks/7973-16b7903d4bfbcfa6.js\" async=\"\"></script><script src=\"/_next/static/chunks/2632-72cd44f34a66c58d.js\" async=\"\"></script><script src=\"/_next/static/chunks/4829-8d9b70ef8ffa2be4.js\" async=\"\"></script><script src=\"/_next/static/chunks/3082-08597f2f45d84c9a.js\" async=\"\"></script><script src=\"/_next/static/chunks/3961-0980a1c97d566552.js\" async=\"\"></script><script src=\"/_next/static/chunks/1623-cc379642722dfa18.js\" async=\"\"></script><script src=\"/_next/static/chunks/7899-e9de9483352ec5be.js\" async=\"\"></script><script src=\"/_next/static/chunks/4956-def1c92c7691698c.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/%5Blocale%5D/layout-38e92f5e466cc5c8.js\" async=\"\"></script><script src=\"/_next/static/chunks/1152-906d182715794a13.js\" async=\"\"></script><script src=\"/_next/static/chunks/116-dce6822bea0f1f1e.js\" async=\"\"></script><script src=\"/_next/static/chunks/5432-763ed892264e984b.js\" async=\"\"></script><script src=\"/_next/static/chunks/9976-a7f3511478d2de9b.js\" async=\"\"></script><script src=\"/_next/static/chunks/7109-73e81be0a683bf98.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/%5Blocale%5D/error-f28b4ffe7875281e.js\" async=\"\"></script><script src=\"/_next/static/chunks/3985-f73ac7ca2d2efdfc.js\" async=\"\"></script><script src=\"/_next/static/chunks/9224-267169d7289535fe.js\" async=\"\"></script><script src=\"/_next/static/chunks/7633-13062562e8a841dc.js\" async=\"\"></script><script src=\"/_next/static/chunks/2536-b655eb9d6e0ece31.js\" async=\"\"></script><script src=\"/_next/static/chunks/957-354456a38d1c23c9.js\" async=\"\"></script><script src=\"/_next/static/chunks/4100-a90d1eaef4ddc892.js\" async=\"\"></script><script src=\"/_next/static/chunks/5459-2b1bd09fd1ed3c9f.js\" async=\"\"></script><script src=\"/_next/static/chunks/1347-7ff7f2f003f4f16b.js\" async=\"\"></script><script src=\"/_next/static/chunks/2622-85295d99a69093e1.js\" async=\"\"></script><script src=\"/_next/static/chunks/2753-2e63d4e16f448e76.js\" async=\"\"></script><script src=\"/_next/static/chunks/9799-fd9ecf026ce6256a.js\" async=\"\"></script><script src=\"/_next/static/chunks/8337-99ec4e49adb34c61.js\" async=\"\"></script><script src=\"/_next/static/chunks/2047-2cd932463f653ae6.js\" async=\"\"></script><script src=\"/_next/static/chunks/2104-e24f929045974980.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/%5Blocale%5D/not-found-786b96bc3714b7ae.js\" async=\"\"></script><script src=\"/_next/static/chunks/413-4e96353bc198f563.js\" async=\"\"></script><script src=\"/_next/static/chunks/8096-d083909943ee5d27.js\" async=\"\"></script><script src=\"/_next/static/chunks/3676-a3f89db24740217e.js\" async=\"\"></script><link rel=\"preload\" href=\"https://stats.seekany.io/script.js\" as=\"script\"><meta name=\"theme-color\" content=\"#570df8\"><title>AI Effects for Videos - Free AI Video Templates | Seedance AI</title><meta name=\"description\" content=\"Discover 40+ free AI video effects &amp; templates with Seedance AI! Effortlessly create stunning videos using cutting-edge AI technology. Try now!\"><meta name=\"application-name\" content=\"Seedance AI\"><meta name=\"robots\" content=\"index, follow, nocache\"><meta name=\"googlebot\" content=\"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1\"><link rel=\"canonical\" href=\"https://www.seedance.ai/effects\"><meta property=\"og:title\" content=\"Seedance AI\"><meta property=\"og:description\" content=\"Seedance AI - AI platform for text/image-to-video &amp; text-to-image generation. Create professional content with Seedance AI.\"><meta property=\"og:url\" content=\"https://seedance.ai/\"><meta property=\"og:site_name\" content=\"Seedance AI\"><meta property=\"og:locale\" content=\"en_US\"><meta property=\"og:type\" content=\"website\"><meta name=\"twitter:card\" content=\"summary_large_image\"><meta name=\"twitter:creator\" content=\"@redesign\"><meta name=\"twitter:title\" content="
+}

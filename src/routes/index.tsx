@@ -1,70 +1,55 @@
 import { createFileRoute } from '@tanstack/react-router';
 
-import { envConfigs } from '@/config';
+import { brand } from '@/config/brand';
 import { m } from '@/paraglide/messages.js';
 import { getLocale, locales, localizeUrl } from '@/paraglide/runtime.js';
-import { Blog } from '@/blocks/blog';
-import { CTA } from '@/blocks/cta';
-import { FAQ } from '@/blocks/faq';
-import { Features } from '@/blocks/features';
-import { Footer } from '@/blocks/footer';
-import { Header } from '@/blocks/header';
-import { Hero } from '@/blocks/hero';
-import { Pricing } from '@/blocks/pricing';
-import { SupportWidget } from '@/blocks/support-widget';
-import { getBlogPostsFn } from '@/content/posts/server';
+import { SeedanceCommunity } from '@/blocks/seedance-community';
+import { SeedanceFaq } from '@/blocks/seedance-faq';
+import { SeedanceFooter } from '@/blocks/seedance-footer';
+import { SeedanceHeader } from '@/blocks/seedance-header';
+import { SeedanceHero } from '@/blocks/seedance-hero';
+import { SeedanceInspired } from '@/blocks/seedance-inspired';
+import { SeedanceModels } from '@/blocks/seedance-models';
 
-/**
- * Default landing page — demo content. Rewrite this file (and the blocks in
- * src/blocks/) for your project. The primitives in src/components/ stay.
- * See /quick-start or /clone-website to automate the rewrite.
- */
 function HomePage() {
-  const { posts } = Route.useLoaderData();
-
   return (
-    <div className="bg-background text-foreground flex min-h-screen flex-col">
-      <Header />
+    <div className="seedance-page bg-[#0a0a0a] text-[#fafafa]">
+      <SeedanceHeader />
       <main>
-        <Hero />
-        <Features />
-        <Pricing />
-        <FAQ />
-        <Blog posts={posts} />
-        <CTA />
+        <SeedanceHero />
+        <SeedanceInspired />
+        <SeedanceModels />
+        <SeedanceCommunity />
+        <SeedanceFaq />
       </main>
-      <Footer />
-      <SupportWidget />
+      <SeedanceFooter />
     </div>
   );
 }
 
 export const Route = createFileRoute('/')({
-  loader: async () => {
+  loader: () => {
     const locale = getLocale();
-    const posts = await getBlogPostsFn({ data: { locale, limit: 3 } });
-    return { locale, posts };
+    return {
+      title: m['landing.meta.title']({}, { locale }),
+      description: m['landing.meta.description']({}, { locale }),
+    };
   },
   head: ({ loaderData }) => {
-    const locale = loaderData?.locale ?? 'en';
-    const urlFor = (loc: string) =>
-      localizeUrl(`${envConfigs.app_url}/`, { locale: loc as any }).href;
+    const title = loaderData?.title ?? brand.name;
+    const description = loaderData?.description ?? brand.tagline;
     return {
       meta: [
-        {
-          name: 'description',
-          content: m['landing.hero.subheadline']({}, { locale: locale as any }),
-        },
+        { title },
+        { name: 'description', content: description },
+        { property: 'og:title', content: title },
+        { property: 'og:description', content: description },
       ],
-      links: [
-        { rel: 'canonical', href: urlFor(locale) },
-        ...locales.map((loc) => ({
-          rel: 'alternate',
-          hrefLang: loc,
-          href: urlFor(loc),
-        })),
-        { rel: 'alternate', hrefLang: 'x-default', href: urlFor('en') },
-      ],
+      links: locales.map((locale) => ({
+        rel: 'alternate',
+        hrefLang: locale,
+        href: localizeUrl('/', { locale }).href,
+      })),
     };
   },
   component: HomePage,

@@ -16,9 +16,11 @@ const publicEnv = (key: string) => metaEnv[key] ?? procEnv[key];
 export const envConfigs: Record<string, string> = {
   // App (public)
   app_url: publicEnv('VITE_APP_URL') ?? 'http://localhost:3000',
-  app_name: publicEnv('VITE_APP_NAME') ?? 'ShipAny',
-  app_description: publicEnv('VITE_APP_DESCRIPTION') ?? 'Ship your SaaS faster',
-  app_logo: publicEnv('VITE_APP_LOGO') ?? '/logo.svg',
+  app_name: publicEnv('VITE_APP_NAME') ?? 'Seedance AI',
+  app_description:
+    publicEnv('VITE_APP_DESCRIPTION') ??
+    'Generate Video, Image & Voice｜AI Tools',
+  app_logo: publicEnv('VITE_APP_LOGO') ?? '/brand/logo.png',
 
   // Database
   database_url: procEnv.DATABASE_URL ?? '',
@@ -32,6 +34,13 @@ export const envConfigs: Record<string, string> = {
   auth_url: procEnv.AUTH_URL ?? publicEnv('VITE_APP_URL') ?? '',
   auth_secret: procEnv.AUTH_SECRET ?? '',
   auth_cookie_prefix: procEnv.AUTH_COOKIE_PREFIX ?? '',
+
+  // Payment - Waffo Pancake (preferred for this project)
+  waffo_merchant_id: procEnv.WAFFO_MERCHANT_ID ?? '',
+  waffo_private_key: procEnv.WAFFO_PRIVATE_KEY ?? '',
+  waffo_store_slug: procEnv.WAFFO_STORE_SLUG ?? '',
+  waffo_environment: procEnv.WAFFO_ENVIRONMENT ?? 'test',
+  waffo_webhook_public_key: procEnv.WAFFO_WEBHOOK_PUBLIC_KEY ?? '',
 
   // Payment - Stripe
   stripe_secret_key: procEnv.STRIPE_SECRET_KEY ?? '',
