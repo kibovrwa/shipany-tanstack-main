@@ -1,1 +1,20 @@
-{}
+{
+  "wrap_pages.gallery.title": "Wrap Gallery",
+  "wrap_pages.gallery.description": "Browse free community and AI wrap designs. Filter by vehicle or style, then open any design in the editor.",
+  "wrap_pages.gallery.search": "Search designs",
+  "wrap_pages.gallery.all_vehicles": "All vehicles",
+  "wrap_pages.gallery.all_styles": "All styles",
+  "wrap_pages.gallery.empty": "No designs match these filters.",
+  "wrap_pages.gallery.more": "More {category}",
+  "wrap_pages.contact.name": "Name",
+  "wrap_pages.contact.email": "Email",
+  "wrap_pages.contact.message": "Message",
+  "wrap_pages.contact.send": "Send message",
+  "wrap_pages.contact.thanks": "Thanks — we received your message.",
+  "wrap_pages.plate.background": "Background",
+  "wrap_pages.plate.download": "Download PNG",
+  "wrap_pages.vehicle.coming_soon": "A Paint Shop template for this vehicle is not available yet. Start with a supported model in the designer.",
+  "wrap_pages.png.not_png": "Not a PNG file.",
+  "wrap_pages.png.ok": "Looks good: {width}×{height}, {kb} KB.",
+  "wrap_pages.tools.lead": "Shortcuts to the designer, gallery, plates and helper utilities."
+}

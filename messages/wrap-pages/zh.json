@@ -1,1 +1,20 @@
-{}
+{
+  "wrap_pages.gallery.title": "贴膜图库",
+  "wrap_pages.gallery.description": "浏览社区与 AI 生成的免费贴膜设计。可按车型或风格筛选，并在编辑器中打开。",
+  "wrap_pages.gallery.search": "搜索设计",
+  "wrap_pages.gallery.all_vehicles": "全部车型",
+  "wrap_pages.gallery.all_styles": "全部风格",
+  "wrap_pages.gallery.empty": "没有符合筛选条件的设计。",
+  "wrap_pages.gallery.more": "更多{category}",
+  "wrap_pages.contact.name": "姓名",
+  "wrap_pages.contact.email": "邮箱",
+  "wrap_pages.contact.message": "留言",
+  "wrap_pages.contact.send": "发送留言",
+  "wrap_pages.contact.thanks": "已收到，谢谢你的反馈。",
+  "wrap_pages.plate.background": "背景",
+  "wrap_pages.plate.download": "下载 PNG",
+  "wrap_pages.vehicle.coming_soon": "该车型的 Paint Shop 模板尚未提供。请先从受支持的车型开始设计。",
+  "wrap_pages.png.not_png": "不是 PNG 文件。",
+  "wrap_pages.png.ok": "检查通过：{width}×{height}，{kb} KB。",
+  "wrap_pages.tools.lead": "快速进入编辑器、图库、车牌与实用工具。"
+}
