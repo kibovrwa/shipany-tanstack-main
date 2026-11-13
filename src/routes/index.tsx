@@ -1,8 +1,9 @@
 import { createFileRoute } from '@tanstack/react-router';
 
+import { envConfigs } from '@/config';
 import { brand } from '@/config/brand';
 import { m } from '@/paraglide/messages.js';
-import { getLocale, locales, localizeUrl } from '@/paraglide/runtime.js';
+import { getLocale } from '@/paraglide/runtime.js';
 import { SeedanceCommunity } from '@/blocks/seedance-community';
 import { SeedanceFaq } from '@/blocks/seedance-faq';
 import { SeedanceFooter } from '@/blocks/seedance-footer';
@@ -36,7 +37,7 @@ export const Route = createFileRoute('/')({
     };
   },
   head: ({ loaderData }) => {
-    const title = loaderData?.title ?? brand.name;
+    const title = loaderData?.title ?? brand.name ?? envConfigs.app_name;
     const description = loaderData?.description ?? brand.tagline;
     return {
       meta: [
@@ -45,11 +46,6 @@ export const Route = createFileRoute('/')({
         { property: 'og:title', content: title },
         { property: 'og:description', content: description },
       ],
-      links: locales.map((locale) => ({
-        rel: 'alternate',
-        hrefLang: locale,
-        href: localizeUrl('/', { locale }).href,
-      })),
     };
   },
   component: HomePage,

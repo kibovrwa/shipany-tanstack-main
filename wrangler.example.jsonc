@@ -12,7 +12,7 @@
   "compatibility_date": "2026-10-01",
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
-    "enabled": true,
+    "enabled": true
   },
   "vars": {
     "DATABASE_PROVIDER": "d1",
@@ -21,15 +21,15 @@
     "VITE_APP_URL": "https://<worker>.<your-subdomain>.workers.dev",
     "VITE_APP_NAME": "My App",
     // Self-hosted Plausible script host(s), comma-separated. Optional.
-    // "PLAUSIBLE_SCRIPT_HOSTS": "stats.example.com",
+    // "PLAUSIBLE_SCRIPT_HOSTS": "stats.example.com"
   },
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "shipany-db",
       "database_id": "REPLACE_WITH_OUTPUT_OF_WRANGLER_D1_CREATE",
-      "migrations_dir": "drizzle",
-    },
+      "migrations_dir": "drizzle"
+    }
   ],
   // ── Postgres via Hyperdrive (instead of D1) ────────────────────────────────
   // 1. npx wrangler hyperdrive create <name> --connection-string="postgres://..." (your direct PG url)
