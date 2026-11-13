@@ -1,0 +1,934 @@
+{
+  "title": "Seedance Prompts: Free AI Video Prompt Library | SeeVideo.ai",
+  "url": "https://seevideo.ai/seedance-prompts/",
+  "bodyBg": "rgb(18, 19, 23)",
+  "bodyColor": "rgb(255, 255, 255)",
+  "bodyFont": "\"Albert Sans\", \"Albert Sans Fallback\"",
+  "fonts": ["Inter, sans-serif", "\"Albert Sans\", \"Albert Sans Fallback\""],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Latest Seedance Video Generation Prompts Examples and Best Practices"
+    },
+    {
+      "tag": "H2",
+      "text": "Discover amazing Seedance video generation prompts with example videos. Get inspired and create stunning videos with these carefully curated prompts."
+    },
+    {
+      "tag": "H2",
+      "text": "Seedance Prompts - The Ultimate AI Video Prompt Library"
+    },
+    {
+      "tag": "H2",
+      "text": "From Discovery to Creation: How Seedance Prompts Works"
+    },
+    {
+      "tag": "H3",
+      "text": "Browse Curated Seedance Prompts"
+    },
+    {
+      "tag": "H3",
+      "text": "Use It or Copy Your Favorite Prompts"
+    },
+    {
+      "tag": "H3",
+      "text": "Generate Custom Prompts with AI"
+    },
+    {
+      "tag": "H2",
+      "text": "Powerful Features That Make Seedance Prompts Essential"
+    },
+    {
+      "tag": "H3",
+      "text": "Massive Curated Prompt Library"
+    },
+    {
+      "tag": "H3",
+      "text": "Real Generation Result Previews"
+    },
+    {
+      "tag": "H3",
+      "text": "AI-Powered Prompt Generator"
+    },
+    {
+      "tag": "H2",
+      "text": "Why Seedance Prompts is the Ultimate Prompt Resource"
+    },
+    {
+      "tag": "H3",
+      "text": "Always Fresh & Trending"
+    },
+    {
+      "tag": "H3",
+      "text": "One-Click Integration with SeeVideo AI"
+    },
+    {
+      "tag": "H3",
+      "text": "Universal Compatibility"
+    },
+    {
+      "tag": "H3",
+      "text": "AI Prompt Generator Included"
+    },
+    {
+      "tag": "H2",
+      "text": "Who Benefits from Seedance Prompts?"
+    },
+    {
+      "tag": "H3",
+      "text": "Filmmakers & Video Producers"
+    },
+    {
+      "tag": "H3",
+      "text": "Content Creators & Social Media Managers"
+    },
+    {
+      "tag": "H3",
+      "text": "Marketing Professionals"
+    },
+    {
+      "tag": "H3",
+      "text": "Web Designers & Developers"
+    },
+    {
+      "tag": "H3",
+      "text": "Educators & Training Professionals"
+    },
+    {
+      "tag": "H3",
+      "text": "AI Enthusiasts & Hobbyists"
+    },
+    {
+      "tag": "H2",
+      "text": "What the Community Says About Seedance Prompts"
+    },
+    {
+      "tag": "H2",
+      "text": "Frequently Asked Questions About Seedance Prompts"
+    },
+    {
+      "tag": "H3",
+      "text": "What is Seedance Prompts?"
+    },
+    {
+      "tag": "H3",
+      "text": "How do I use prompts from Seedance Prompts?"
+    },
+    {
+      "tag": "H3",
+      "text": "Is Seedance Prompts free to use?"
+    },
+    {
+      "tag": "H3",
+      "text": "What's the difference between copying a prompt and using 'Use It'?"
+    },
+    {
+      "tag": "H3",
+      "text": "How does the AI prompt generator work?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can I use Seedance Prompts with any AI video generator?"
+    },
+    {
+      "tag": "H3",
+      "text": "How often is the Seedance Prompts library updated?"
+    },
+    {
+      "tag": "H3",
+      "text": "Do I need AI or prompt engineering experience to use Seedance Prompts?"
+    },
+    {
+      "tag": "H3",
+      "text": "What makes a good video prompt?"
+    },
+    {
+      "tag": "H2",
+      "text": "Start Creating Amazing Videos with Seedance Prompts Today"
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/",
+      "text": "Explore Free Seedance Prompts Now"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing"
+    },
+    {
+      "href": "/about/",
+      "text": "About"
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "/refund-policy/",
+      "text": "Refund Policy"
+    },
+    {
+      "href": "/terms-of-service/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "href": "/",
+      "text": "SeeVideo.ai"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://seevideo.ai/icon/favicon.svg",
+      "alt": "SeeVideo icon",
+      "w": 634,
+      "h": 634
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "SeeVideo logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://static.seevideo.ai/files/r7m3bubsi2t1.png",
+      "alt": "Seedance Prompt #66",
+      "w": 1280,
+      "h": 720
+    },
+    {
+      "src": "https://static.seevideo.ai/files/jopkblpzjv3j.png",
+      "alt": "Seedance Prompt #62",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/4dot8qt9hl6n.png",
+      "alt": "Seedance Prompt #58",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/vwyxm8pjjufr.png",
+      "alt": "Seedance Prompt #54",
+      "w": 496,
+      "h": 864
+    },
+    {
+      "src": "https://static.seevideo.ai/files/esdh8qv26q4f.png",
+      "alt": "Seedance Prompt #50",
+      "w": 720,
+      "h": 1280
+    },
+    {
+      "src": "https://static.seevideo.ai/files/gemyb6vieryi.png",
+      "alt": "Seedance Prompt #46",
+      "w": 720,
+      "h": 1280
+    },
+    {
+      "src": "https://static.seevideo.ai/files/e29rtfippyj3.png",
+      "alt": "Seedance Prompt #65",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/o7ewkp9vwt47.png",
+      "alt": "Seedance Prompt #61",
+      "w": 496,
+      "h": 864
+    },
+    {
+      "src": "https://static.seevideo.ai/files/b9scfjbr9xac.png",
+      "alt": "Seedance Prompt #57",
+      "w": 496,
+      "h": 864
+    },
+    {
+      "src": "https://static.seevideo.ai/files/odcfu6pxzmhn.png",
+      "alt": "Seedance Prompt #53",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/fm2dflqe5xfe.png",
+      "alt": "Seedance Prompt #49",
+      "w": 1280,
+      "h": 720
+    },
+    {
+      "src": "https://static.seevideo.ai/files/72swa9ousqxe.png",
+      "alt": "Seedance Prompt #45",
+      "w": 1280,
+      "h": 720
+    },
+    {
+      "src": "https://static.seevideo.ai/files/ze069xb28ddb.png",
+      "alt": "Seedance Prompt #64",
+      "w": 496,
+      "h": 864
+    },
+    {
+      "src": "https://static.seevideo.ai/files/31pqih5e4ui3.png",
+      "alt": "Seedance Prompt #60",
+      "w": 496,
+      "h": 864
+    },
+    {
+      "src": "https://static.seevideo.ai/files/u4hu1kcvtxh6.png",
+      "alt": "Seedance Prompt #56",
+      "w": 496,
+      "h": 864
+    },
+    {
+      "src": "https://static.seevideo.ai/files/tlq4n5iyvuuu.png",
+      "alt": "Seedance Prompt #52",
+      "w": 496,
+      "h": 864
+    },
+    {
+      "src": "https://static.seevideo.ai/files/yqp76xjaowb1.png",
+      "alt": "Seedance Prompt #48",
+      "w": 1280,
+      "h": 720
+    },
+    {
+      "src": "https://static.seevideo.ai/files/68iygw2d7ieh.png",
+      "alt": "Seedance Prompt #44",
+      "w": 720,
+      "h": 1280
+    },
+    {
+      "src": "https://static.seevideo.ai/files/7g8yhjslkf6y.png",
+      "alt": "Seedance Prompt #63",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/od3bzcqfcuqk.png",
+      "alt": "Seedance Prompt #59",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/1n1drlkijgww.png",
+      "alt": "Seedance Prompt #55",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/mw574mjba1yu.png",
+      "alt": "Seedance Prompt #51",
+      "w": 864,
+      "h": 496
+    },
+    {
+      "src": "https://static.seevideo.ai/files/89f0qs04kdie.png",
+      "alt": "Seedance Prompt #47",
+      "w": 720,
+      "h": 1280
+    },
+    {
+      "src": "https://static.seevideo.ai/files/cilclsrzkowh.png",
+      "alt": "Seedance Prompt #43",
+      "w": 720,
+      "h": 1280
+    },
+    {
+      "src": "https://static.seevideo.ai/files/efmiasnwkfs1.jpeg",
+      "alt": "Massive Curated Prompt Library",
+      "w": 720,
+      "h": 1280
+    },
+    {
+      "src": "https://static.seevideo.ai/files/d0ywxeng2o0u.jpeg",
+      "alt": "Real Generation Result Previews",
+      "w": 778,
+      "h": 1182
+    },
+    {
+      "src": "https://static.seevideo.ai/files/ak8nxyuwu5mv.jpeg",
+      "alt": "AI-Powered Prompt Generator",
+      "w": 720,
+      "h": 1280
+    },
+    {
+      "src": "https://static.seevideo.ai/files/651br7h7blpe.jpeg",
+      "alt": "Always Fresh & Trending",
+      "w": 1280,
+      "h": 720
+    },
+    {
+      "src": "https://static.seevideo.ai/files/zz5ujf0id14h.jpeg",
+      "alt": "One-Click Integration with SeeVideo AI",
+      "w": 1284,
+      "h": 716
+    },
+    {
+      "src": "https://static.seevideo.ai/files/f19wbulx7nqu.jpeg",
+      "alt": "Universal Compatibility",
+      "w": 958,
+      "h": 960
+    },
+    {
+      "src": "https://static.seevideo.ai/files/1p0yg8muktel.jpeg",
+      "alt": "AI Prompt Generator Included",
+      "w": 962,
+      "h": 956
+    },
+    {
+      "src": "https://static.seevideo.ai/files/3lgr3k3b3u2w.jpeg",
+      "alt": "Alex Rivera",
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "src": "https://static.seevideo.ai/files/p9j8hxe7yjpk.jpeg",
+      "alt": "Jessica Park",
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "src": "https://static.seevideo.ai/files/26rs42fuvwrg.jpeg",
+      "alt": "Marcus Chen",
+      "w": 1093,
+      "h": 822
+    },
+    {
+      "src": "https://static.seevideo.ai/files/a7ixlrp6sqwd.jpeg",
+      "alt": "Sarah Thompson",
+      "w": 1493,
+      "h": 832
+    },
+    {
+      "src": "https://static.seevideo.ai/files/77bu2hnxlm1x.jpeg",
+      "alt": "David Kim",
+      "w": 638,
+      "h": 649
+    },
+    {
+      "src": "https://static.seevideo.ai/landing/1-1/3.jpeg",
+      "alt": "Video cover",
+      "w": 640,
+      "h": 640
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "seevideo.ai",
+      "w": 300,
+      "h": 43
+    }
+  ],
+  "videos": [
+    {
+      "poster": "https://static.seevideo.ai/files/r7m3bubsi2t1.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/jopkblpzjv3j.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/4dot8qt9hl6n.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/vwyxm8pjjufr.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/esdh8qv26q4f.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/gemyb6vieryi.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/e29rtfippyj3.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/o7ewkp9vwt47.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/b9scfjbr9xac.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/odcfu6pxzmhn.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/fm2dflqe5xfe.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/72swa9ousqxe.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/ze069xb28ddb.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/31pqih5e4ui3.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/u4hu1kcvtxh6.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/tlq4n5iyvuuu.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/yqp76xjaowb1.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/68iygw2d7ieh.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/7g8yhjslkf6y.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/od3bzcqfcuqk.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/1n1drlkijgww.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/mw574mjba1yu.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/89f0qs04kdie.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/cilclsrzkowh.png"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/efmiasnwkfs1.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/d0ywxeng2o0u.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/ak8nxyuwu5mv.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/651br7h7blpe.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/zz5ujf0id14h.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/f19wbulx7nqu.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/1p0yg8muktel.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/landing/1-1/3.jpeg"
+    }
+  ],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "HEADER",
+      "class": "fixed left-0 top-0 z-40 w-full",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Models · Ends Jan 31 (Yearly Plans) Try Now Home AI Video AI Image Seedance Prompts Pricing 50% OFF Log in / Sign Up",
+      "h": 104
+    },
+    {
+      "i": 1,
+      "tag": "SECTION",
+      "class": "Toastify",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 2,
+      "tag": "DIV",
+      "class": "flex flex-col",
+      "text": "Home Seedance Prompts Latest Seedance Video Generation Prompts Examples and Best Practices Discover amazing Seedance video generation prompts with example videos. Get inspired and create stunning videos with these carefully curated prompts. Generate Seedance Prompt with AI 3 uses left today Describe your video idea and let AI create the perfect Seedance prompt for you Generate Prompt: A playful fantasy video. A normal slice of toast on a kitchen ",
+      "h": 4930
+    },
+    {
+      "i": 3,
+      "tag": "DIV",
+      "class": "mt-16 flex flex-col gap-y-16",
+      "text": "Seedance Prompts - The Ultimate AI Video Prompt Library Discover, Copy & Generate with Thousands of Curated AI Video Prompts Welcome to Seedance Prompts, your ultimate destination for discovering and creating exceptional AI video prompts! Explore our ever-growing collection of thousands of carefully curated, trending prompts from the global creative community. Each Seedance Prompt comes with real generation results so you can see exactly what you",
+      "h": 9628
+    },
+    {
+      "i": 4,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "From Discovery to Creation: How Seedance Prompts Works Seedance Prompts streamlines your creative process with an intuitive workflow designed for speed and inspiration. From browsing thousands of curated prompts to generating videos in one click, we make AI video creation accessible to everyone. 1 Browse Curated Seedance Prompts Explore our massive, continuously updated library of Seedance Prompts sourced from talented creators worldwide. Filter ",
+      "h": 956
+    },
+    {
+      "i": 5,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "Powerful Features That Make Seedance Prompts Essential Discover why Seedance Prompts is the preferred prompt resource for thousands of creators worldwide. Our platform combines curation excellence, AI-powered tools, and community-driven content to revolutionize how you discover and create AI video prompts. Massive Curated Prompt Library Seedance Prompts features the largest curated collection of AI video prompts on the web, with thousands of exam",
+      "h": 2561
+    },
+    {
+      "i": 6,
+      "tag": "SECTION",
+      "class": "relative px-4 py-12 md:py-24 ",
+      "text": "Why Seedance Prompts is the Ultimate Prompt Resource Seedance Prompts stands apart as the most comprehensive, user-friendly, and effective prompt discovery platform for AI video generation. Latest Trending Prompts Seamless 'Use It' Feature Works with Any AI Tool Create Custom Prompts Always Fresh & Trending Daily Updates with Thousands of Trending Seedance Prompts Seedance Prompts stays on the cutting edge of AI video generation trends. Our libra",
+      "h": 1048
+    },
+    {
+      "i": 7,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "Who Benefits from Seedance Prompts? Seedance Prompts serves creators across industries and skill levels. Discover how different professionals and enthusiasts leverage our prompt library and AI generator. Filmmakers & Video Producers Professional filmmakers use Seedance Prompts to accelerate concept development, explore visual styles, and discover new cinematic techniques. Browse thousands of prompts to find inspiration for projects and study effe",
+      "h": 1106
+    },
+    {
+      "i": 8,
+      "tag": "SECTION",
+      "class": "py-16 md:py-24 px-4 relative ",
+      "text": "What the Community Says About Seedance Prompts “ Seedance Prompts has become my secret weapon for client work. The ability to browse thousands of prompts with real result previews saves me hours of experimentation. I love that I can click 'Use It' and get instant results. My productivity has tripled since discovering Seedance Prompts! Seedance Prompts has become my secret weapon for client work. The ability to browse thousands of prompts with rea",
+      "h": 726
+    },
+    {
+      "i": 9,
+      "tag": "SECTION",
+      "class": "py-16 md:py-24 px-4 relative ",
+      "text": "Frequently Asked Questions About Seedance Prompts What is Seedance Prompts? Seedance Prompts is the world's largest curated library of AI video generation prompts, featuring thousands of high-quality, proven prompts with real result previews. Our platform helps creators discover effective prompts, see exactly what they'll generate before using them, and either click 'Use It' for instant generation on SeeVideo AI or copy prompts for use in any AI ",
+      "h": 1415
+    },
+    {
+      "i": 10,
+      "tag": "SECTION",
+      "class": "relative px-4 py-20 md:py-28 ",
+      "text": "Start Creating Amazing Videos with Seedance Prompts Today Seedance Prompts provides everything you need in one powerful platform. Discover trending styles, explore proven techniques, and transform your creative ideas into stunning video reality. Best of all, it's completely free to start! Explore Free Seedance Prompts Now",
+      "h": 824
+    },
+    {
+      "i": 11,
+      "tag": "FOOTER",
+      "class": "mt-8 border-t border-border bg-background pb-24 text-card-foreground md:mt-12 md:pb-0",
+      "text": "Create professional videos and images with SeeVideo.ai's unified AI platform. Access multiple leading models to transform your ideas into stunning content instantly. Copyright 2026 © SeeVideo.ai. All rights reserved. support@seevideo.ai Support Pricing About support@seevideo.ai Legal Privacy Policy Refund Policy Terms & Conditions SeeVideo.ai",
+      "h": 231
+    }
+  ],
+  "accents": [
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(18, 19, 23)",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Mo",
+      "class": "FZIQdG_className"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(230, 81, 0)",
+      "text": "90% OFF",
+      "class": "font-extrabold text-[#E65100] [text-shadow:_0_1px_2px_rgba(2"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 242, 243)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 206, 90)",
+      "text": "Seedance Prompts",
+      "class": "text-md group relative flex items-center gap-2 rounded-md px"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(0, 0, 0, 0.5)",
+      "text": "",
+      "class": "fixed inset-0 bg-black/50"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(57, 66, 70, 0.1)",
+      "text": "Seedance Prompts",
+      "class": "flex items-center rounded-md px-4 py-2 transition-colors bg-"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.8)",
+      "text": "",
+      "class": "inline-flex items-center gap-2 rounded-md justify-center px-"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(20, 20, 30, 0.5)",
+      "text": "HomeVideoImagePremium",
+      "class": "mx-4 mb-2 rounded-[2rem] shadow-2xl"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(248, 210, 75)",
+      "text": "Home",
+      "class": "relative z-10 truncate text-xs font-medium transition-all du"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(176, 176, 181)",
+      "text": "Discover amazing Seedance video generati",
+      "class": "mx-auto max-w-3xl text-xs text-muted-foreground sm:text-sm m"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(27, 28, 34, 0.5)",
+      "text": "Generate Seedance Prompt with AI\n3 uses ",
+      "class": "rounded-xl border text-card-foreground shadow border-border/"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(57, 58, 70)",
+      "text": "3 uses left today",
+      "class": "inline-flex items-center rounded-md border px-2.5 py-0.5 fon"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.5)",
+      "text": "",
+      "class": "flex w-full rounded-md border px-3 py-2 shadow-sm focus-visi"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(26, 26, 26)",
+      "text": "Generate",
+      "class": "inline-flex items-center justify-center gap-2 whitespace-now"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(22, 31, 43)",
+      "text": "Prompt:\n\nA playful fantasy video. A norm",
+      "class": "group flex h-fit flex-col overflow-hidden rounded-xl border "
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(17, 24, 39)",
+      "text": "",
+      "class": "relative h-full w-full bg-gray-900"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(209, 213, 219)",
+      "text": "Prompt:",
+      "class": "mb-2 text-sm font-medium text-gray-300"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(31, 41, 55, 0.5)",
+      "text": "A playful fantasy video. A normal slice ",
+      "class": "rounded-lg bg-gray-800/50 p-2.5"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(229, 231, 235)",
+      "text": "A playful fantasy video. A normal slice ",
+      "class": "line-clamp-4 break-all text-sm leading-relaxed text-gray-200"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.9)",
+      "text": "Discover, Copy & Generate with Thousands",
+      "class": "mb-4 text-xl font-medium text-foreground/90 md:text-2xl"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.2)",
+      "text": "Seamless 'Use It' Feature",
+      "class": "w-full rounded-lg px-4 py-3 text-left text-sm font-medium bo"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(176, 176, 181, 0.4)",
+      "text": "Seedance Prompts has become my secret we",
+      "class": "text-muted-foreground/40 whitespace-pre-wrap"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.8)",
+      "text": "",
+      "class": "w-8 h-8 rounded-full bg-background/80 backdrop-blur-sm borde"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(77, 77, 86)",
+      "text": "",
+      "class": "w-2 h-2 rounded-full transition-all bg-border hover:bg-highl"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(242, 206, 90, 0.1)",
+      "text": "",
+      "class": "ml-4 flex-shrink-0 rounded-full p-1 bg-highlight/10 transiti"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(57, 66, 70)",
+      "text": "",
+      "class": "ml-4 flex-shrink-0 rounded-full p-1 bg-muted transition-all "
+    },
+    {
+      "prop": "color",
+      "v": "rgba(176, 176, 181, 0.8)",
+      "text": "Copyright 2026 © SeeVideo.ai. All rights",
+      "class": "space-y-0.5 text-xs text-muted-foreground/80"
+    }
+  ],
+  "nav": [
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    }
+  ]
+}

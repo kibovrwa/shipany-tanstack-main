@@ -14,7 +14,7 @@ import { SeedanceModels } from '@/blocks/seedance-models';
 
 function HomePage() {
   return (
-    <div className="seedance-page bg-[#0a0a0a] text-[#fafafa]">
+    <div className="seevideo-page bg-[#121317] text-white">
       <SeedanceHeader />
       <main>
         <SeedanceHero />

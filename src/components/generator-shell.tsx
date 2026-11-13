@@ -68,7 +68,7 @@ export function GeneratorShell({
   }
 
   return (
-    <div className="seedance-page min-h-screen bg-[#0a0a0a] text-[#fafafa]">
+    <div className="seevideo-page min-h-screen bg-[#121317] text-white">
       <SeedanceHeader />
       <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14">
         <div className="mb-8 max-w-2xl">
@@ -97,7 +97,7 @@ export function GeneratorShell({
                 onClick={onGenerate}
                 className={cn(
                   buttonVariants({ size: 'sm' }),
-                  'gap-1.5 rounded-lg bg-[#a855f7] text-white hover:bg-[#9333ea]'
+                  'gap-1.5 rounded-full bg-[#F2CE5A] font-semibold text-[#1a1a1a] hover:bg-[#e6c04a]'
                 )}
               >
                 {mutation.isPending ? (

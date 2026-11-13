@@ -10,17 +10,14 @@ export function SeedanceFooter() {
       <div className="mx-auto grid max-w-6xl gap-8 sm:grid-cols-2 lg:grid-cols-4">
         <div>
           <Link href="/" className="flex items-center gap-2">
-            <img
-              src={brand.logo}
-              alt={brand.name}
-              className="size-7 rounded-md"
-            />
-            <span className="font-semibold text-white">
-              {brand.domainLabel}
-            </span>
+            <img src={brand.logo} alt={brand.name} className="h-7 w-auto" />
           </Link>
-          <p className="text-muted-foreground mt-3 text-xs">
-            Copyright {brand.domainLabel} © {brand.copyrightYear} —{' '}
+          <p className="mt-3 text-xs text-white/55">
+            Create professional videos and images with {brand.domainLabel}
+            &apos;s unified AI platform.
+          </p>
+          <p className="mt-3 text-xs text-white/45">
+            Copyright {brand.copyrightYear} © {brand.domainLabel}.{' '}
             {m['landing.footer.rights']()}
           </p>
           <div className="mt-4">
@@ -34,29 +31,27 @@ export function SeedanceFooter() {
           </h3>
           <ul className="mt-3 space-y-2 text-sm text-white/70">
             <li>
+              <Link href="/video" className="hover:text-[#F2CE5A]">
+                {m['landing.nav.ai_video']()}
+              </Link>
+            </li>
+            <li>
+              <Link href="/ai-image-generator" className="hover:text-[#F2CE5A]">
+                {m['landing.nav.ai_image']()}
+              </Link>
+            </li>
+            <li>
+              <Link href="/pricing" className="hover:text-[#F2CE5A]">
+                {m['landing.nav.pricing']()}
+              </Link>
+            </li>
+            <li>
               <a
                 href={`mailto:${brand.contactEmail}`}
-                className="hover:text-white"
+                className="hover:text-[#F2CE5A]"
               >
                 {m['landing.footer.contact']()}
-                <br />
-                <span className="text-xs">{brand.contactEmail}</span>
               </a>
-            </li>
-            <li>
-              <Link href="/refund-policy" className="hover:text-white">
-                {m['landing.footer.refund']()}
-              </Link>
-            </li>
-            <li>
-              <Link href="/about" className="hover:text-white">
-                {m['landing.footer.about']()}
-              </Link>
-            </li>
-            <li>
-              <Link href="/version-hub" className="hover:text-white">
-                {m['landing.footer.community_hub']()}
-              </Link>
             </li>
           </ul>
         </div>
@@ -67,18 +62,23 @@ export function SeedanceFooter() {
           </h3>
           <ul className="mt-3 space-y-2 text-sm text-white/70">
             <li>
-              <Link href="/terms-of-service" className="hover:text-white">
+              <Link href="/terms-of-service" className="hover:text-[#F2CE5A]">
                 {m['landing.footer.terms']()}
               </Link>
             </li>
             <li>
-              <Link href="/privacy-policy" className="hover:text-white">
+              <Link href="/privacy-policy" className="hover:text-[#F2CE5A]">
                 {m['landing.footer.privacy']()}
               </Link>
             </li>
             <li>
-              <Link href="/content-policy" className="hover:text-white">
+              <Link href="/content-policy" className="hover:text-[#F2CE5A]">
                 {m['landing.footer.content_policy']()}
+              </Link>
+            </li>
+            <li>
+              <Link href="/refund-policy" className="hover:text-[#F2CE5A]">
+                {m['landing.footer.refund']()}
               </Link>
             </li>
           </ul>

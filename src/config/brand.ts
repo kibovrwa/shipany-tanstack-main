@@ -1,16 +1,19 @@
 /**
  * Single swap point for brand name, logo, contact, and launch SEO.
  * Dylan: change these (and messages/*.json) before launch — no hunt-and-peck.
+ *
+ * Product reference: seevideo.ai (multi-model video SaaS). Brand copy here is
+ * easy to replace when Dylan launches under his own name.
  */
 export const brand = {
-  name: 'Seedance AI',
-  shortName: 'Seedance',
-  tagline: 'Generate Video, Image & Voice',
-  logo: '/brand/logo.png',
-  favicon: '/brand/logo.png',
-  contactEmail: 'help@seedance.ai',
+  name: 'SeeVideo',
+  shortName: 'SeeVideo',
+  tagline: 'Create Stunning AI Videos with Seedance 2.0 for Free',
+  logo: '/brand/logo.svg',
+  favicon: '/brand/icon.svg',
+  contactEmail: 'help@seevideo.ai',
   copyrightYear: 2026,
-  domainLabel: 'seedance.ai',
+  domainLabel: 'SeeVideo.ai',
 } as const;
 
 /**

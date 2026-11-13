@@ -27,7 +27,7 @@ export const Route = createFileRoute('/pricing')({
 
 function PricingPage() {
   return (
-    <div className="seedance-page flex min-h-screen flex-col bg-[#0a0a0a] text-[#fafafa]">
+    <div className="seevideo-page flex min-h-screen flex-col bg-[#121317] text-[#fafafa]">
       <SeedanceHeader />
       <main className="flex-1">
         <Pricing />

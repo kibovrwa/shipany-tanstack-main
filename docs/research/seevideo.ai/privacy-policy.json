@@ -1,0 +1,377 @@
+{
+  "title": "Privacy Policy | SeeVideo.ai",
+  "url": "https://seevideo.ai/privacy-policy/",
+  "bodyBg": "rgb(18, 19, 23)",
+  "bodyColor": "rgb(255, 255, 255)",
+  "bodyFont": "\"Albert Sans\", \"Albert Sans Fallback\"",
+  "fonts": ["Inter, sans-serif", "\"Albert Sans\", \"Albert Sans Fallback\""],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Privacy Policy for SeeVideo.ai"
+    },
+    {
+      "tag": "H2",
+      "text": "Introduction"
+    },
+    {
+      "tag": "H2",
+      "text": "Information We Collect"
+    },
+    {
+      "tag": "H3",
+      "text": "Personal Data"
+    },
+    {
+      "tag": "H3",
+      "text": "Non-Personal Data"
+    },
+    {
+      "tag": "H2",
+      "text": "Purpose of Data Collection"
+    },
+    {
+      "tag": "H2",
+      "text": "Data Sharing"
+    },
+    {
+      "tag": "H2",
+      "text": "Children's Privacy"
+    },
+    {
+      "tag": "H2",
+      "text": "Updates to the Privacy Policy"
+    },
+    {
+      "tag": "H2",
+      "text": "Opt Out"
+    },
+    {
+      "tag": "H2",
+      "text": "Contact Information"
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "https://seevideo.ai",
+      "text": "https://seevideo.ai"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing"
+    },
+    {
+      "href": "/about/",
+      "text": "About"
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "/refund-policy/",
+      "text": "Refund Policy"
+    },
+    {
+      "href": "/terms-of-service/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "href": "/",
+      "text": "SeeVideo.ai"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://seevideo.ai/icon/favicon.svg",
+      "alt": "SeeVideo icon",
+      "w": 634,
+      "h": 634
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "SeeVideo logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "seevideo.ai",
+      "w": 300,
+      "h": 43
+    }
+  ],
+  "videos": [],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "HEADER",
+      "class": "fixed left-0 top-0 z-40 w-full",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Models · Ends Jan 31 (Yearly Plans) Try Now Home AI Video AI Image Seedance Prompts Pricing 50% OFF Log in / Sign Up",
+      "h": 104
+    },
+    {
+      "i": 1,
+      "tag": "SECTION",
+      "class": "Toastify",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 2,
+      "tag": "DIV",
+      "class": "mx-auto my-6 w-full max-w-4xl",
+      "text": "Privacy Policy for SeeVideo.ai Effective Date: 2026-02-26 Introduction Welcome to SeeVideo.ai(also referred to as \"Company\", \"We\", \"Us\", or \"Our\")! Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information when you visit our website, https://seevideo.ai. Information We Collect Personal Data We collect the following personal information: Name Email Payment Information Non-Personal Data We also ",
+      "h": 2021
+    },
+    {
+      "i": 3,
+      "tag": "FOOTER",
+      "class": "mt-8 border-t border-border bg-background pb-24 text-card-foreground md:mt-12 md:pb-0",
+      "text": "Create professional videos and images with SeeVideo.ai's unified AI platform. Access multiple leading models to transform your ideas into stunning content instantly. Copyright 2026 © SeeVideo.ai. All rights reserved. support@seevideo.ai Support Pricing About support@seevideo.ai Legal Privacy Policy Refund Policy Terms & Conditions SeeVideo.ai",
+      "h": 231
+    }
+  ],
+  "accents": [
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(18, 19, 23)",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Mo",
+      "class": "FZIQdG_className"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(230, 81, 0)",
+      "text": "90% OFF",
+      "class": "font-extrabold text-[#E65100] [text-shadow:_0_1px_2px_rgba(2"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 242, 243)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(0, 0, 0, 0.5)",
+      "text": "",
+      "class": "fixed inset-0 bg-black/50"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.8)",
+      "text": "",
+      "class": "inline-flex items-center gap-2 rounded-md justify-center px-"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(20, 20, 30, 0.5)",
+      "text": "HomeVideoImagePremium",
+      "class": "mx-4 mb-2 rounded-[2rem] shadow-2xl"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 206, 90)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(248, 210, 75)",
+      "text": "Home",
+      "class": "relative z-10 truncate text-xs font-medium transition-all du"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(36, 37, 46)",
+      "text": "Privacy Policy for SeeVideo.ai\n\nEffectiv",
+      "class": "prose prose-invert max-w-none rounded-lg border border-borde"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(209, 213, 219)",
+      "text": "Privacy Policy for SeeVideo.ai\n\nEffectiv",
+      "class": "prose prose-invert max-w-none rounded-lg border border-borde"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.9)",
+      "text": "Privacy Policy for SeeVideo.ai\n\nEffectiv",
+      "class": "text-foreground/90"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(242, 206, 90, 0.9)",
+      "text": "Effective Date:",
+      "class": ""
+    },
+    {
+      "prop": "color",
+      "v": "rgb(176, 176, 181)",
+      "text": "Create professional videos and images wi",
+      "class": "max-w-3xl text-sm text-muted-foreground"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(176, 176, 181, 0.8)",
+      "text": "Copyright 2026 © SeeVideo.ai. All rights",
+      "class": "space-y-0.5 text-xs text-muted-foreground/80"
+    }
+  ],
+  "nav": [
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Premium"
+    }
+  ]
+}

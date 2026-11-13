@@ -1,0 +1,779 @@
+{
+  "title": "PixVerse V6 AI Video Generator: Text & Image to Video | SeeVideo.ai",
+  "url": "https://seevideo.ai/video/pixverse-v-6-ai-video-generator/",
+  "bodyBg": "rgb(18, 19, 23)",
+  "bodyColor": "rgb(255, 255, 255)",
+  "bodyFont": "\"Albert Sans\", \"Albert Sans Fallback\"",
+  "fonts": ["Inter, sans-serif", "\"Albert Sans\", \"Albert Sans Fallback\""],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "PixVerse V6: Generate Cinematic AI Videos from Text or Images"
+    },
+    {
+      "tag": "H2",
+      "text": "How to Use the PixVerse AI video generator"
+    },
+    {
+      "tag": "H3",
+      "text": "Enter a prompt or upload an image"
+    },
+    {
+      "tag": "H3",
+      "text": "Choose video settings"
+    },
+    {
+      "tag": "H3",
+      "text": "Generate and download"
+    },
+    {
+      "tag": "H2",
+      "text": "Core Capabilities of PixVerse V6"
+    },
+    {
+      "tag": "H3",
+      "text": "Text-to-Video Generation with Cinematic Quality"
+    },
+    {
+      "tag": "H3",
+      "text": "Image-to-Video Animation and Transitions"
+    },
+    {
+      "tag": "H3",
+      "text": "Native Audio and Cinematic Camera Controls"
+    },
+    {
+      "tag": "H3",
+      "text": "Multi-Shot Storytelling and Video Extension"
+    },
+    {
+      "tag": "H2",
+      "text": "Why Choose the PixVerse AI Video Generator"
+    },
+    {
+      "tag": "H3",
+      "text": "Streamlined Content Creation"
+    },
+    {
+      "tag": "H3",
+      "text": "Efficient Commercial Production"
+    },
+    {
+      "tag": "H3",
+      "text": "Narrative Filmmaking Support"
+    },
+    {
+      "tag": "H3",
+      "text": "Visual Design and Animation"
+    },
+    {
+      "tag": "H2",
+      "text": "How Professionals Use PixVerse V6"
+    },
+    {
+      "tag": "H2",
+      "text": "Frequently Asked Questions about PixVerse V6"
+    },
+    {
+      "tag": "H3",
+      "text": "What is PixVerse V6 and what can it create?"
+    },
+    {
+      "tag": "H3",
+      "text": "Does PixVerse V6 support both text-to-video and image-to-video?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can PixVerse V6 generate audio together with the video?"
+    },
+    {
+      "tag": "H3",
+      "text": "What camera movements and lens controls can I use?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can PixVerse V6 extend an existing video?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can I create a transition between two images?"
+    },
+    {
+      "tag": "H3",
+      "text": "What video resolutions and aspect ratios does PixVerse V6 support?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can PixVerse V6 create multi-shot videos with consistent characters?"
+    },
+    {
+      "tag": "H3",
+      "text": "Is PixVerse V6 suitable for social media, advertisements, and short films?"
+    },
+    {
+      "tag": "H3",
+      "text": "Can PixVerse V6 videos be used for commercial projects?"
+    },
+    {
+      "tag": "H2",
+      "text": "Start Creating with the PixVerse AI video generator"
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Veo Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Nano Banana Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Upgrade Plan50% OFF"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video Maker"
+    },
+    {
+      "href": "/video/pixverse-v-6-ai-video-generator/",
+      "text": "Generate with PixVerse V6"
+    },
+    {
+      "href": "/video/pixverse-v-6-ai-video-generator/",
+      "text": "Create an AI Video"
+    },
+    {
+      "href": "/video/pixverse-v-6-ai-video-generator/",
+      "text": "Start Generating Video"
+    },
+    {
+      "href": "/video/pixverse-v-6-ai-video-generator/",
+      "text": "Turn Your Idea into Video"
+    },
+    {
+      "href": "/video/pixverse-v-6-ai-video-generator/",
+      "text": "Generate with PixVerse V6"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing"
+    },
+    {
+      "href": "/about/",
+      "text": "About"
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "/refund-policy/",
+      "text": "Refund Policy"
+    },
+    {
+      "href": "/terms-of-service/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "href": "/",
+      "text": "SeeVideo.ai"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://seevideo.ai/icon/favicon.svg",
+      "alt": "SeeVideo icon",
+      "w": 634,
+      "h": 634
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "SeeVideo logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://static.seevideo.ai/files/t9zxq55y1ofd.jpeg",
+      "alt": "PixVerse V6: Generate Cinematic AI Videos from Text or Images",
+      "w": 640,
+      "h": 360
+    },
+    {
+      "src": "https://static.seevideo.ai/files/m9zdbh2gvb9s.svg",
+      "alt": "",
+      "w": 200,
+      "h": 200
+    },
+    {
+      "src": "https://static.seevideo.ai/files/l02cuo3uqxol.svg",
+      "alt": "",
+      "w": 200,
+      "h": 200
+    },
+    {
+      "src": "https://static.seevideo.ai/files/kn5oj5eck7pr.svg",
+      "alt": "",
+      "w": 200,
+      "h": 200
+    },
+    {
+      "src": "https://static.seevideo.ai/files/lkzqgnkamu1q.jpeg",
+      "alt": "Text-to-Video Generation with Cinematic Quality",
+      "w": 640,
+      "h": 360
+    },
+    {
+      "src": "https://static.seevideo.ai/files/4myyri9n6u3v.jpeg",
+      "alt": "Image-to-Video Animation and Transitions",
+      "w": 640,
+      "h": 360
+    },
+    {
+      "src": "https://static.seevideo.ai/files/tti90sb9qb5n.jpeg",
+      "alt": "Native Audio and Cinematic Camera Controls",
+      "w": 640,
+      "h": 360
+    },
+    {
+      "src": "https://static.seevideo.ai/files/bezc8t2u8urn.jpeg",
+      "alt": "Multi-Shot Storytelling and Video Extension",
+      "w": 640,
+      "h": 360
+    },
+    {
+      "src": "https://static.seevideo.ai/files/m9zdbh2gvb9s.svg",
+      "alt": "",
+      "w": 200,
+      "h": 200
+    },
+    {
+      "src": "https://static.seevideo.ai/files/l02cuo3uqxol.svg",
+      "alt": "",
+      "w": 200,
+      "h": 200
+    },
+    {
+      "src": "https://static.seevideo.ai/files/j7bvveq18lgb.svg",
+      "alt": "",
+      "w": 200,
+      "h": 200
+    },
+    {
+      "src": "https://static.seevideo.ai/files/a6maw66pe677.svg",
+      "alt": "",
+      "w": 200,
+      "h": 200
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=150&h=150",
+      "alt": "Sarah Jenkins",
+      "w": 150,
+      "h": 150
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?auto=format&fit=crop&q=80&w=150&h=150",
+      "alt": "David Chen",
+      "w": 150,
+      "h": 150
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150&h=150",
+      "alt": "Amanda Roberts",
+      "w": 150,
+      "h": 150
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150&h=150",
+      "alt": "Marcus Johnson",
+      "w": 150,
+      "h": 150
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=150&h=150",
+      "alt": "Emily Sato",
+      "w": 150,
+      "h": 150
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150&h=150",
+      "alt": "James Wilson",
+      "w": 150,
+      "h": 150
+    },
+    {
+      "src": "https://static.seevideo.ai/landing/1-1/3.jpeg",
+      "alt": "Video cover",
+      "w": 640,
+      "h": 640
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "seevideo.ai",
+      "w": 300,
+      "h": 43
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://static.seevideo.ai/files/k95fil6navd5.mp4",
+      "poster": "https://static.seevideo.ai/files/msulg0b9yz6u.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/lkzqgnkamu1q.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/4myyri9n6u3v.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/tti90sb9qb5n.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/files/bezc8t2u8urn.jpeg"
+    },
+    {
+      "poster": "https://static.seevideo.ai/landing/1-1/3.jpeg"
+    }
+  ],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "HEADER",
+      "class": "fixed left-0 top-0 z-40 w-full",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Models · Ends Jan 31 (Yearly Plans) Try Now Home AI Video AI Image Seedance Prompts Pricing 50% OFF Log in / Sign Up",
+      "h": 104
+    },
+    {
+      "i": 1,
+      "tag": "SECTION",
+      "class": "Toastify",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 2,
+      "tag": "DIV",
+      "class": "p-4 md:p-6",
+      "text": "Home AI Video Maker PixVerse V6 AI Video Generator PixVerse V6 AI Video Generator Text to Video Image to Video Prompt 0/20000 Aspect Ratio 21:9 16:9 4:3 1:1 3:4 9:16 Duration 5 Resolution 480p 720p 1080p 4k Generate Audio Web Search Public Visibility Required Credits 80 Upgrade to Generate Sample Videos PixVerse V6: Generate Cinematic AI Videos from Text or Images Create professional video content with synchronized audio, precise camera controls,",
+      "h": 9747
+    },
+    {
+      "i": 3,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "How to Use the PixVerse AI video generator Our PixVerse V6 video generator provides a clear, straightforward workflow. Whether you use the PixVerse V6 text to video generator or the PixVerse V6 image to video generator, the process requires just three simple steps to produce a final, high-quality result. 1 Enter a prompt or upload an image Start by typing a detailed description of your scene to use the PixVerse V6 text to video function. Describe",
+      "h": 856
+    },
+    {
+      "i": 4,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "Core Capabilities of PixVerse V6 Discover exactly what the PixVerse AI video generator can create. From comprehensive PixVerse V6 text to video generation to precise PixVerse V6 image to video animation, these features solve real video production challenges across a variety of professional use cases. Text-to-Video Generation with Cinematic Quality The PixVerse V6 text to video capability translates written descriptions into highly detailed moving",
+      "h": 2536
+    },
+    {
+      "i": 5,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "Why Choose the PixVerse AI Video Generator By utilizing PixVerse V6, different professionals can skip complicated setups and get straight to creating high-quality outputs efficiently. Streamlined Content Creation For digital creators, PixVerse V6 eliminates the need for complex physical shoots. Quickly input concepts and instantly download ready-to-post, visually engaging vertical or horizontal clips for social media. Efficient Commercial Product",
+      "h": 840
+    },
+    {
+      "i": 6,
+      "tag": "SECTION",
+      "class": "py-16 md:py-24 px-4 relative ",
+      "text": "How Professionals Use PixVerse V6 Read how real users integrate the PixVerse AI video generator into their daily production workflows, utilizing both PixVerse V6 text to video and PixVerse V6 image to video tools. “ The PixVerse AI video generator completely changed my daily workflow. I use the PixVerse V6 image to video feature to turn my static product photography into engaging promotional clips. Adding motion to still images used to take me ho",
+      "h": 782
+    },
+    {
+      "i": 7,
+      "tag": "SECTION",
+      "class": "py-16 md:py-24 px-4 relative ",
+      "text": "Frequently Asked Questions about PixVerse V6 Find direct answers about how the PixVerse AI video generator works, including details on PixVerse V6 text to video, PixVerse V6 image to video, and platform capabilities. What is PixVerse V6 and what can it create? PixVerse V6 is an AI video generation model designed to create high-quality motion content. The PixVerse AI video generator allows users to generate Cinematic AI Videos up to 1080p from Tex",
+      "h": 1557
+    },
+    {
+      "i": 8,
+      "tag": "SECTION",
+      "class": "relative px-4 py-20 md:py-28 ",
+      "text": "Start Creating with the PixVerse AI video generator Ready to turn your text prompts into cinematic videos or animate still images? Experience the PixVerse V6 online platform today. Simply enter your prompt or upload an image, choose your settings, and click generate to download your file. Use the PixVerse V6 text to video or PixVerse V6 image to video tools to speed up your production. Generate with PixVerse V6",
+      "h": 824
+    },
+    {
+      "i": 9,
+      "tag": "FOOTER",
+      "class": "mt-8 border-t border-border bg-background pb-24 text-card-foreground md:mt-12 md:pb-0",
+      "text": "Create professional videos and images with SeeVideo.ai's unified AI platform. Access multiple leading models to transform your ideas into stunning content instantly. Copyright 2026 © SeeVideo.ai. All rights reserved. support@seevideo.ai Support Pricing About support@seevideo.ai Legal Privacy Policy Refund Policy Terms & Conditions SeeVideo.ai",
+      "h": 231
+    }
+  ],
+  "accents": [
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(18, 19, 23)",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Mo",
+      "class": "FZIQdG_className"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(230, 81, 0)",
+      "text": "90% OFF",
+      "class": "font-extrabold text-[#E65100] [text-shadow:_0_1px_2px_rgba(2"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 242, 243)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 206, 90)",
+      "text": "AI Video",
+      "class": "text-md group relative flex items-center gap-2 rounded-md px"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(0, 0, 0, 0.5)",
+      "text": "",
+      "class": "fixed inset-0 bg-black/50"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(57, 66, 70, 0.1)",
+      "text": "AI Video",
+      "class": "flex items-center rounded-md px-4 py-2 transition-colors bg-"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.8)",
+      "text": "",
+      "class": "inline-flex items-center gap-2 rounded-md justify-center px-"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(20, 20, 30, 0.5)",
+      "text": "HomeVideoImagePremium",
+      "class": "mx-4 mb-2 rounded-[2rem] shadow-2xl"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(248, 210, 75)",
+      "text": "Video",
+      "class": "relative z-10 truncate text-xs font-medium transition-all du"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.95)",
+      "text": "CreateMy Videos",
+      "class": "z-30 shrink-0 bg-background/95 backdrop-blur-md md:hidden py"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(36, 37, 46)",
+      "text": "CreateMy Videos",
+      "class": "flex min-w-0 flex-1 rounded-full bg-form-background p-1"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(242, 206, 90, 0.15)",
+      "text": "Create",
+      "class": "min-h-10 min-w-0 flex-1 rounded-full px-2 text-sm font-mediu"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(176, 176, 181)",
+      "text": "My Videos",
+      "class": "min-h-10 min-w-0 flex-1 rounded-full px-2 text-sm font-mediu"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(27, 28, 34)",
+      "text": "",
+      "class": "flex w-full rounded-md border px-3 py-2 text-base shadow-sm "
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(57, 66, 70, 0.8)",
+      "text": "",
+      "class": "pointer-events-auto flex h-6 w-6 items-center justify-center"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.55)",
+      "text": "",
+      "class": "relative h-2 cursor-pointer rounded-full bg-background/55"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(242, 206, 90, 0.45)",
+      "text": "",
+      "class": "absolute h-full rounded-full bg-[hsl(var(--highlight))]/45 t"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(57, 66, 70, 0.6)",
+      "text": "",
+      "class": "relative inline-flex h-6 w-11 items-center rounded-full tran"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(244, 237, 215, 0.1)",
+      "text": "Required Credits\n80",
+      "class": "rounded-lg border transition-all duration-200 border-[hsl(va"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(26, 26, 26)",
+      "text": "Upgrade to Generate",
+      "class": "inline-flex items-center justify-center gap-2 whitespace-now"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.9)",
+      "text": "Create professional video content with s",
+      "class": "mb-4 text-xl font-medium text-foreground/90 md:text-2xl"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.5)",
+      "text": "",
+      "class": "gradient-glow-bg relative overflow-hidden rounded-xl border "
+    },
+    {
+      "prop": "color",
+      "v": "rgba(176, 176, 181, 0.4)",
+      "text": "The PixVerse AI video generator complete",
+      "class": "text-muted-foreground/40 whitespace-pre-wrap"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.8)",
+      "text": "",
+      "class": "w-8 h-8 rounded-full bg-background/80 backdrop-blur-sm borde"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(77, 77, 86)",
+      "text": "",
+      "class": "w-2 h-2 rounded-full transition-all bg-border hover:bg-highl"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(242, 206, 90, 0.1)",
+      "text": "",
+      "class": "ml-4 flex-shrink-0 rounded-full p-1 bg-highlight/10 transiti"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(57, 66, 70)",
+      "text": "",
+      "class": "ml-4 flex-shrink-0 rounded-full p-1 bg-muted transition-all "
+    },
+    {
+      "prop": "color",
+      "v": "rgba(176, 176, 181, 0.8)",
+      "text": "Copyright 2026 © SeeVideo.ai. All rights",
+      "class": "space-y-0.5 text-xs text-muted-foreground/80"
+    }
+  ],
+  "nav": [
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Veo Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Nano Banana Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Upgrade Plan50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video Maker"
+    }
+  ]
+}

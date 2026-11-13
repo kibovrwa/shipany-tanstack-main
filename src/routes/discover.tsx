@@ -8,7 +8,7 @@ import { SeedanceHeader } from '@/blocks/seedance-header';
 
 function DiscoverPage() {
   return (
-    <div className="seedance-page min-h-screen bg-[#0a0a0a] text-[#fafafa]">
+    <div className="seevideo-page min-h-screen bg-[#121317] text-[#fafafa]">
       <SeedanceHeader />
       <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14">
         <h1 className="text-3xl font-bold text-white">

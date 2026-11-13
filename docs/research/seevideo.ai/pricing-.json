@@ -1,0 +1,463 @@
+{
+  "title": "Pricing for SeeVideo.ai | SeeVideo.ai",
+  "url": "https://seevideo.ai/pricing/",
+  "bodyBg": "rgb(18, 19, 23)",
+  "bodyColor": "rgb(255, 255, 255)",
+  "bodyFont": "\"Albert Sans\", \"Albert Sans Fallback\"",
+  "fonts": ["Inter, sans-serif", "\"Albert Sans\", \"Albert Sans Fallback\""],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Pick your plan to get started"
+    },
+    {
+      "tag": "H3",
+      "text": "Starter"
+    },
+    {
+      "tag": "H3",
+      "text": "Unlimited"
+    },
+    {
+      "tag": "H3",
+      "text": "Pro"
+    },
+    {
+      "tag": "H2",
+      "text": "Why Choose Yearly Plan?"
+    },
+    {
+      "tag": "H3",
+      "text": "Huge Savings"
+    },
+    {
+      "tag": "H3",
+      "text": "Model Discounts"
+    },
+    {
+      "tag": "H3",
+      "text": "Exclusive Perks"
+    },
+    {
+      "tag": "H2",
+      "text": "Compare All Plans"
+    },
+    {
+      "tag": "H3",
+      "text": "Starter"
+    },
+    {
+      "tag": "H3",
+      "text": "Starter"
+    },
+    {
+      "tag": "H3",
+      "text": "Pro"
+    },
+    {
+      "tag": "H3",
+      "text": "Pro"
+    },
+    {
+      "tag": "H3",
+      "text": "Unlimited"
+    },
+    {
+      "tag": "H3",
+      "text": "Unlimited"
+    },
+    {
+      "tag": "H3",
+      "text": "Pay Once"
+    },
+    {
+      "tag": "H3",
+      "text": "Pay Once"
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing"
+    },
+    {
+      "href": "/about/",
+      "text": "About"
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "/refund-policy/",
+      "text": "Refund Policy"
+    },
+    {
+      "href": "/terms-of-service/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "href": "/",
+      "text": "SeeVideo.ai"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://seevideo.ai/icon/favicon.svg",
+      "alt": "SeeVideo icon",
+      "w": 634,
+      "h": 634
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "SeeVideo logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "seevideo.ai",
+      "w": 300,
+      "h": 43
+    }
+  ],
+  "videos": [],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "HEADER",
+      "class": "fixed left-0 top-0 z-40 w-full",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Models · Ends Jan 31 (Yearly Plans) Try Now Home AI Video AI Image Seedance Prompts Pricing 50% OFF Log in / Sign Up",
+      "h": 104
+    },
+    {
+      "i": 1,
+      "tag": "SECTION",
+      "class": "Toastify",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 2,
+      "tag": "SECTION",
+      "class": "bg-background",
+      "text": "Pick your plan to get started Bill Monthly 50% OFF Bill Yearly Pay Once Cancel anytime • Unused credits roll over Save 20% Starter Perfect for getting started $8.3 /month $100/year billed yearly 10,000 credits 1,000 videos $0.10 /video (97% off) Subscribe Now All Basic & Enhanced Models 90% Off (Flash Sale) All Premium AI Models Unlocked SOTA Models 20% OFF 2 Concurrent Generations Private Generation Ads-Free Experience No Watermark Priority Proc",
+      "h": 6236
+    },
+    {
+      "i": 3,
+      "tag": "SECTION",
+      "class": "mb-8",
+      "text": "Why Choose Yearly Plan? Huge Savings Save $250/year on Starter Save $760/year on Pro Save $900/year on Unlimited Model Discounts All basic & enhanced models 90% Off (Flash Sale)! SOTA Models: Up to 60% OFF per generation Seedance 1.5 Pro: 40 → 4 Credits Seedream 5.0: 20 → 2 Credits Veo 3: 100 → 10 Credits Exclusive Perks Access to all Premium models (Seedance 2.0 Pro, Seedream, Nano Banana Pro, etc.) MiniMax H3, Seedance 2.0 & Veo 3.1 Premium fro",
+      "h": 392
+    },
+    {
+      "i": 4,
+      "tag": "SECTION",
+      "class": "mb-12 w-full rounded-3xl p-4 sm:p-6 lg:p-8",
+      "text": "Compare All Plans Features Starter Monthly Subscribe YEARLY Starter Yearly Subscribe Pro Monthly Subscribe YEARLY Pro Yearly Subscribe Unlimited Monthly Subscribe YEARLY Unlimited Yearly Subscribe Pay Once $199.99 Popular Pay Once $499.99 Price $29.99 /month $8.3 /month $89.99 /month $25 /month Save 30% $149.99 /month $75 /month Save 50% $199.99 Pay Once $499.99 Pay Once Credits 2,500/month 10,000/year 10,000/month 32,000/year Unlimited Unlimited",
+      "h": 3341
+    },
+    {
+      "i": 5,
+      "tag": "FOOTER",
+      "class": "mt-8 border-t border-border bg-background pb-24 text-card-foreground md:mt-12 md:pb-0",
+      "text": "Create professional videos and images with SeeVideo.ai's unified AI platform. Access multiple leading models to transform your ideas into stunning content instantly. Copyright 2026 © SeeVideo.ai. All rights reserved. support@seevideo.ai Support Pricing About support@seevideo.ai Legal Privacy Policy Refund Policy Terms & Conditions SeeVideo.ai",
+      "h": 231
+    }
+  ],
+  "accents": [
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(18, 19, 23)",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Mo",
+      "class": "FZIQdG_className"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(230, 81, 0)",
+      "text": "90% OFF",
+      "class": "font-extrabold text-[#E65100] [text-shadow:_0_1px_2px_rgba(2"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 242, 243)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 206, 90)",
+      "text": "Pricing\n50% OFF",
+      "class": "text-md group relative flex items-center gap-2 rounded-md px"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(0, 0, 0, 0.5)",
+      "text": "",
+      "class": "fixed inset-0 bg-black/50"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(57, 66, 70, 0.1)",
+      "text": "Pricing50% OFF",
+      "class": "flex items-center rounded-md px-4 py-2 transition-colors bg-"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.8)",
+      "text": "",
+      "class": "inline-flex items-center gap-2 rounded-md justify-center px-"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(20, 20, 30, 0.5)",
+      "text": "HomeVideoImagePremium",
+      "class": "mx-4 mb-2 rounded-[2rem] shadow-2xl"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(248, 210, 75)",
+      "text": "Premium",
+      "class": "relative z-10 truncate text-xs font-medium transition-all du"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(242, 53, 150)",
+      "text": "ANNUAL EXCLUSIVE",
+      "class": "promo-bubble-badge"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.68)",
+      "text": "Seedance 2.5 is now available! Annual su",
+      "class": "promo-bubble-copy"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.48)",
+      "text": "Basic & Enhanced models 90% OFF, Seedanc",
+      "class": "promo-bubble-footnote hidden sm:inline"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(29, 29, 29)",
+      "text": "Try Now",
+      "class": "promo-bubble-cta"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(27, 28, 34)",
+      "text": "Bill Monthly\n50% OFF\nBill Yearly\nPay Onc",
+      "class": "mb-4 flex items-center rounded-full bg-card p-0.5 sm:mb-10 s"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(176, 176, 181)",
+      "text": "Bill Monthly",
+      "class": "whitespace-nowrap rounded-full px-3 py-2 text-xs transition-"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(0, 0, 0, 0.9)",
+      "text": "50% OFF",
+      "class": "rounded-md border border-[hsl(var(--primary))] bg-black/90 p"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(26, 26, 26)",
+      "text": "Bill Yearly",
+      "class": "whitespace-nowrap rounded-full px-3 py-2 text-xs transition-"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(171, 187, 204)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(249, 115, 22)",
+      "text": "(97% off)",
+      "class": "text-[10px] font-semibold text-orange-500"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(45, 46, 57)",
+      "text": "Seedance 2.0 and MiniMax H3 are excluded",
+      "class": "pointer-events-none absolute left-0 top-full z-50 mt-2 hidde"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.9)",
+      "text": "Video:",
+      "class": "font-semibold text-foreground/90"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(36, 37, 46)",
+      "text": "AI MODELS (BASIC & ENHANCED 90% OFF · FL",
+      "class": "mt-6 rounded-lg p-4 bg-[hsl(var(--surface-2))]"
+    }
+  ],
+  "nav": [
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Premium"
+    }
+  ]
+}

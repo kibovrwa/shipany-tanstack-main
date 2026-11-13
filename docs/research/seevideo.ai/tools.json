@@ -1,0 +1,755 @@
+{
+  "title": "ToolsPageText.title | SeeVideo.ai",
+  "url": "https://seevideo.ai/tools/",
+  "bodyBg": "rgb(18, 19, 23)",
+  "bodyColor": "rgb(255, 255, 255)",
+  "bodyFont": "\"Albert Sans\", \"Albert Sans Fallback\"",
+  "fonts": ["Inter, sans-serif", "\"Albert Sans\", \"Albert Sans Fallback\""],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "ToolsPageText.heroTitle"
+    },
+    {
+      "tag": "H2",
+      "text": "ToolsPageText.featuresSectionTitle"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.feature1Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.feature2Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.feature4Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.feature5Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.feature6Title"
+    },
+    {
+      "tag": "H2",
+      "text": "ToolsPageText.whyChooseSectionTitle"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.whyChoose1Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.whyChoose2Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.whyChoose3Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.whyChoose4Title"
+    },
+    {
+      "tag": "H2",
+      "text": "ToolsPageText.workflowSectionTitle"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.workflowStep1Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.workflowStep2Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.workflowStep3Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.workflowStep4Title"
+    },
+    {
+      "tag": "H2",
+      "text": "ToolsPageText.useCaseSectionTitle"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.useCase1Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.useCase2Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.useCase3Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.useCase4Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.useCase5Title"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.useCase6Title"
+    },
+    {
+      "tag": "H2",
+      "text": "ToolsPageText.testimonialsSectionTitle"
+    },
+    {
+      "tag": "H2",
+      "text": "ToolsPageText.faqSectionTitle"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq1Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq2Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq3Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq4Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq6Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq7Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq8Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq10Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq11Question"
+    },
+    {
+      "tag": "H3",
+      "text": "ToolsPageText.faq12Question"
+    },
+    {
+      "tag": "H2",
+      "text": "ToolsPageText.ctaSectionTitle"
+    }
+  ],
+  "links": [
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Veo Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Nano Banana Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Upgrade Plan\n50% OFF"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "/video/",
+      "text": "Veo Video"
+    },
+    {
+      "href": "/image/",
+      "text": "Nano Banana Image"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Upgrade Plan50% OFF"
+    },
+    {
+      "href": "/",
+      "text": "Home"
+    },
+    {
+      "href": "//draw-to-video/",
+      "text": "Draw to Video"
+    },
+    {
+      "href": "/tools/",
+      "text": "ToolsPageText.ctaButtonText"
+    },
+    {
+      "href": "/",
+      "text": ""
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/pricing/",
+      "text": "Pricing"
+    },
+    {
+      "href": "/about/",
+      "text": "About"
+    },
+    {
+      "href": "mailto:support@seevideo.ai",
+      "text": "support@seevideo.ai"
+    },
+    {
+      "href": "/privacy-policy/",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "/refund-policy/",
+      "text": "Refund Policy"
+    },
+    {
+      "href": "/terms-of-service/",
+      "text": "Terms & Conditions"
+    },
+    {
+      "href": "/",
+      "text": "SeeVideo.ai"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://seevideo.ai/icon/favicon.svg",
+      "alt": "SeeVideo icon",
+      "w": 634,
+      "h": 634
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "SeeVideo logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "logo",
+      "w": 300,
+      "h": 43
+    },
+    {
+      "src": "https://static.supermaker.ai/files/idy288ltyzoo.webp",
+      "alt": "Draw to Video",
+      "w": 3072,
+      "h": 2048
+    },
+    {
+      "src": "https://static.seevideo.ai/files/7achbse5m95c.png",
+      "alt": "ToolsPageText.feature2Title",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://static.seevideo.ai/files/adi9ge129gsv.png",
+      "alt": "ToolsPageText.feature5Title",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://static.seevideo.ai/files/6xr2zm1rrn6m.png",
+      "alt": "ToolsPageText.testimonial1Name",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://static.seevideo.ai/files/licaxfblaifv.png",
+      "alt": "ToolsPageText.testimonial2Name",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://static.seevideo.ai/files/ozl71fn07scv.png",
+      "alt": "ToolsPageText.testimonial3Name",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://static.seevideo.ai/files/9bha9bgr1kim.png",
+      "alt": "ToolsPageText.testimonial4Name",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://static.seevideo.ai/files/xbzo5wmz4gkg.png",
+      "alt": "ToolsPageText.testimonial5Name",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://static.seevideo.ai/landing/1-1/3.jpeg",
+      "alt": "Video cover",
+      "w": 640,
+      "h": 640
+    },
+    {
+      "src": "https://seevideo.ai/icon/logo.svg",
+      "alt": "seevideo.ai",
+      "w": 300,
+      "h": 43
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://static.supermaker.ai/video/504bdadcceea4e03a31bee8117a5d030.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://static.seevideo.ai/files/b1tm0jbjsuex.mp4",
+      "poster": "https://seevideo.ai/tools/"
+    },
+    {
+      "src": "https://static.seevideo.ai/files/0nvdbwj95qyy.mp4",
+      "poster": "https://seevideo.ai/tools/"
+    },
+    {
+      "src": "https://static.seevideo.ai/files/l6mvsl5v41py.mp4",
+      "poster": "https://seevideo.ai/tools/"
+    },
+    {
+      "src": "https://static.seevideo.ai/files/vsm5qm2e6vsh.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://static.seevideo.ai/files/i4vg6zh5tvce.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://static.seevideo.ai/files/ppp87lbr0we9.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://static.seevideo.ai/files/ketjg8yifgpj.mp4",
+      "poster": ""
+    },
+    {
+      "poster": "https://static.seevideo.ai/landing/1-1/3.jpeg"
+    }
+  ],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "HEADER",
+      "class": "fixed left-0 top-0 z-40 w-full",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Models · Ends Jan 31 (Yearly Plans) Try Now Home AI Video AI Image Seedance Prompts Pricing 50% OFF Log in / Sign Up",
+      "h": 104
+    },
+    {
+      "i": 1,
+      "tag": "SECTION",
+      "class": "Toastify",
+      "text": "",
+      "h": 0
+    },
+    {
+      "i": 2,
+      "tag": "DIV",
+      "class": "lg: mb-6 min-h-[calc(100vh-120px)] px-6",
+      "text": "Video Tools Draw to Video Image Tools Please look forward to it.",
+      "h": 780
+    },
+    {
+      "i": 3,
+      "tag": "DIV",
+      "class": "mt-16 flex flex-col gap-y-16",
+      "text": "ToolsPageText.heroTitle ToolsPageText.heroSubtitle ToolsPageText.heroDescription ToolsPageText.heroButtonText ToolsPageText.heroHighlight1 | ToolsPageText.heroHighlight2 | ToolsPageText.heroHighlight3 | ToolsPageText.heroHighlight4 ToolsPageText.featuresSectionTitle ToolsPageText.featuresSectionDescription ToolsPageText.feature1Title ToolsPageText.feature1Description ToolsPageText.feature2Title ToolsPageText.feature2Description ToolsPageText.feat",
+      "h": 9545
+    },
+    {
+      "i": 4,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "ToolsPageText.featuresSectionTitle ToolsPageText.featuresSectionDescription ToolsPageText.feature1Title ToolsPageText.feature1Description ToolsPageText.feature2Title ToolsPageText.feature2Description ToolsPageText.feature4Title ToolsPageText.feature4Description ToolsPageText.feature5Title ToolsPageText.feature5Description ToolsPageText.feature6Title ToolsPageText.feature6Description",
+      "h": 2744
+    },
+    {
+      "i": 5,
+      "tag": "SECTION",
+      "class": "relative px-4 py-12 md:py-24 ",
+      "text": "ToolsPageText.whyChooseSectionTitle ToolsPageText.whyChooseSectionDescription ToolsPageText.whyChoose1TabTitle ToolsPageText.whyChoose2TabTitle ToolsPageText.whyChoose3TabTitle ToolsPageText.whyChoose4TabTitle ToolsPageText.whyChoose1Title ToolsPageText.whyChoose1Description Start Creating",
+      "h": 1092
+    },
+    {
+      "i": 6,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "ToolsPageText.workflowSectionTitle ToolsPageText.workflowSectionDescription 1 ToolsPageText.workflowStep1Title ToolsPageText.workflowStep1Description 2 ToolsPageText.workflowStep2Title ToolsPageText.workflowStep2Description 3 ToolsPageText.workflowStep3Title ToolsPageText.workflowStep3Description 4 ToolsPageText.workflowStep4Title ToolsPageText.workflowStep4Description",
+      "h": 876
+    },
+    {
+      "i": 7,
+      "tag": "SECTION",
+      "class": "relative px-4 py-16 md:py-24 ",
+      "text": "ToolsPageText.useCaseSectionTitle ToolsPageText.useCaseSectionDescription ToolsPageText.useCase1Title ToolsPageText.useCase1Description ToolsPageText.useCase2Title ToolsPageText.useCase2Description ToolsPageText.useCase3Title ToolsPageText.useCase3Description ToolsPageText.useCase4Title ToolsPageText.useCase4Description ToolsPageText.useCase5Title ToolsPageText.useCase5Description ToolsPageText.useCase6Title ToolsPageText.useCase6Description",
+      "h": 946
+    },
+    {
+      "i": 8,
+      "tag": "SECTION",
+      "class": "py-16 md:py-24 px-4 relative ",
+      "text": "ToolsPageText.testimonialsSectionTitle ToolsPageText.testimonialsSectionDescription “ ToolsPageText.testimonial1Text ToolsPageText.testimonial1Text ToolsPageText.testimonial1Text ToolsPageText.testimonial2Text ToolsPageText.testimonial2Text ToolsPageText.testimonial2Text ToolsPageText.testimonial3Text ToolsPageText.testimonial3Text ToolsPageText.testimonial3Text ToolsPageText.testimonial4Text ToolsPageText.testimonial4Text ToolsPageText.testimoni",
+      "h": 762
+    },
+    {
+      "i": 9,
+      "tag": "SECTION",
+      "class": "py-16 md:py-24 px-4 relative ",
+      "text": "ToolsPageText.faqSectionTitle ToolsPageText.faqSectionDescription ToolsPageText.faq1Question ToolsPageText.faq1Answer ToolsPageText.faq2Question ToolsPageText.faq2Answer ToolsPageText.faq3Question ToolsPageText.faq3Answer ToolsPageText.faq4Question ToolsPageText.faq4Answer ToolsPageText.faq6Question ToolsPageText.faq6Answer ToolsPageText.faq7Question ToolsPageText.faq7Answer ToolsPageText.faq8Question ToolsPageText.faq8Answer ToolsPageText.faq10Q",
+      "h": 1513
+    },
+    {
+      "i": 10,
+      "tag": "SECTION",
+      "class": "relative px-4 py-20 md:py-28 ",
+      "text": "ToolsPageText.ctaSectionTitle ToolsPageText.ctaSectionDescription ToolsPageText.ctaButtonText",
+      "h": 720
+    },
+    {
+      "i": 11,
+      "tag": "FOOTER",
+      "class": "mt-8 border-t border-border bg-background pb-24 text-card-foreground md:mt-12 md:pb-0",
+      "text": "Create professional videos and images with SeeVideo.ai's unified AI platform. Access multiple leading models to transform your ideas into stunning content instantly. Copyright 2026 © SeeVideo.ai. All rights reserved. support@seevideo.ai Support Pricing About support@seevideo.ai Legal Privacy Policy Refund Policy Terms & Conditions SeeVideo.ai",
+      "h": 231
+    }
+  ],
+  "accents": [
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(18, 19, 23)",
+      "text": "🚀 Seedance 2.5 Launched! 90% OFF All Mo",
+      "class": "FZIQdG_className"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(230, 81, 0)",
+      "text": "90% OFF",
+      "class": "font-extrabold text-[#E65100] [text-shadow:_0_1px_2px_rgba(2"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 242, 243)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(0, 0, 0, 0.5)",
+      "text": "",
+      "class": "fixed inset-0 bg-black/50"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.8)",
+      "text": "",
+      "class": "inline-flex items-center gap-2 rounded-md justify-center px-"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(20, 20, 30, 0.5)",
+      "text": "HomeVideoImagePremium",
+      "class": "mx-4 mb-2 rounded-[2rem] shadow-2xl"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(242, 206, 90)",
+      "text": "",
+      "class": "[object SVGAnimatedString]"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(248, 210, 75)",
+      "text": "Home",
+      "class": "relative z-10 truncate text-xs font-medium transition-all du"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(17, 24, 39)",
+      "text": "Draw to Video",
+      "class": "relative aspect-[16/10] w-full transform overflow-hidden rou"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(0, 0, 0, 0.1)",
+      "text": "",
+      "class": "absolute inset-0 bg-black/10 opacity-0 transition-opacity du"
+    },
+    {
+      "prop": "color",
+      "v": "rgba(255, 255, 255, 0.9)",
+      "text": "ToolsPageText.heroSubtitle",
+      "class": "mb-4 text-xl font-medium text-foreground/90 md:text-2xl"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(176, 176, 181)",
+      "text": "ToolsPageText.heroDescription",
+      "class": "md:text-md mx-auto mt-3 max-w-4xl text-sm text-muted-foregro"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(26, 26, 26)",
+      "text": "ToolsPageText.heroButtonText",
+      "class": "highlight-button group mt-6 inline-flex cursor-pointer items"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.2)",
+      "text": "ToolsPageText.whyChoose2TabTitle",
+      "class": "w-full rounded-lg px-4 py-3 text-left text-sm font-medium bo"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.5)",
+      "text": "",
+      "class": "gradient-glow-bg relative overflow-hidden rounded-xl border "
+    },
+    {
+      "prop": "color",
+      "v": "rgba(176, 176, 181, 0.4)",
+      "text": "ToolsPageText.testimonial1Text",
+      "class": "text-muted-foreground/40 whitespace-pre-wrap"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(18, 19, 23, 0.8)",
+      "text": "",
+      "class": "w-8 h-8 rounded-full bg-background/80 backdrop-blur-sm borde"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(77, 77, 86)",
+      "text": "",
+      "class": "w-2 h-2 rounded-full transition-all bg-border hover:bg-highl"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgba(242, 206, 90, 0.1)",
+      "text": "",
+      "class": "ml-4 flex-shrink-0 rounded-full p-1 bg-highlight/10 transiti"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(57, 66, 70)",
+      "text": "",
+      "class": "ml-4 flex-shrink-0 rounded-full p-1 bg-muted transition-all "
+    },
+    {
+      "prop": "color",
+      "v": "rgba(176, 176, 181, 0.8)",
+      "text": "Copyright 2026 © SeeVideo.ai. All rights",
+      "class": "space-y-0.5 text-xs text-muted-foreground/80"
+    }
+  ],
+  "nav": [
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing\n50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": ""
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "AI Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "AI Image"
+    },
+    {
+      "href": "https://seevideo.ai/seedance-prompts/",
+      "text": "Seedance Prompts"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Pricing50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Premium"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Veo Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Nano Banana Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Upgrade Plan\n50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    },
+    {
+      "href": "https://seevideo.ai/video/",
+      "text": "Veo Video"
+    },
+    {
+      "href": "https://seevideo.ai/image/",
+      "text": "Nano Banana Image"
+    },
+    {
+      "href": "https://seevideo.ai/pricing/",
+      "text": "Upgrade Plan50% OFF"
+    },
+    {
+      "href": "https://seevideo.ai/",
+      "text": "Home"
+    }
+  ]
+}

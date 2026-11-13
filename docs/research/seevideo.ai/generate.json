@@ -1,0 +1,52 @@
+{
+  "title": "",
+  "url": "https://seevideo.ai/generate/",
+  "bodyBg": "rgb(18, 19, 23)",
+  "bodyColor": "rgb(255, 255, 255)",
+  "bodyFont": "Inter, sans-serif",
+  "fonts": ["Inter, sans-serif"],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Page not found"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://seevideo.ai",
+      "text": "Return home"
+    }
+  ],
+  "images": [],
+  "videos": [],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "DIV",
+      "class": "jsx-1c5f267c4071343f text-center max-w-md mx-auto",
+      "text": "404 Page not found Sorry, we couldn't find the page you're looking for. Return home",
+      "h": 721
+    }
+  ],
+  "accents": [
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(18, 19, 23)",
+      "text": "404\n\nPage not found\n\nSorry, we couldn't ",
+      "class": "jsx-1c5f267c4071343f bg-background"
+    },
+    {
+      "prop": "color",
+      "v": "rgb(176, 176, 181)",
+      "text": "Sorry, we couldn't find the page you're ",
+      "class": "jsx-1c5f267c4071343f mt-6 text-base leading-7 text-muted-for"
+    },
+    {
+      "prop": "backgroundColor",
+      "v": "rgb(57, 66, 70)",
+      "text": "",
+      "class": "jsx-1c5f267c4071343f aspect-square bg-muted rounded-sm"
+    }
+  ],
+  "nav": []
+}

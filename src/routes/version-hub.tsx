@@ -6,7 +6,7 @@ import { SeedanceHeader } from '@/blocks/seedance-header';
 
 function Page() {
   return (
-    <div className="seedance-page min-h-screen bg-[#0a0a0a] text-[#fafafa]">
+    <div className="seedance-page min-h-screen bg-[#121317] text-[#fafafa]">
       <SeedanceHeader />
       <main className="mx-auto max-w-3xl px-4 py-12">
         <h1 className="text-3xl font-bold text-white">Community Hub</h1>

@@ -16,11 +16,11 @@ const publicEnv = (key: string) => metaEnv[key] ?? procEnv[key];
 export const envConfigs: Record<string, string> = {
   // App (public)
   app_url: publicEnv('VITE_APP_URL') ?? 'http://localhost:3000',
-  app_name: publicEnv('VITE_APP_NAME') ?? 'Seedance AI',
+  app_name: publicEnv('VITE_APP_NAME') ?? 'SeeVideo',
   app_description:
     publicEnv('VITE_APP_DESCRIPTION') ??
-    'Generate Video, Image & Voice｜AI Tools',
-  app_logo: publicEnv('VITE_APP_LOGO') ?? '/brand/logo.png',
+    'Create Stunning AI Videos with Seedance 2.0',
+  app_logo: publicEnv('VITE_APP_LOGO') ?? '/brand/logo.svg',
 
   // Database
   database_url: procEnv.DATABASE_URL ?? '',
