@@ -2,12 +2,11 @@ import { Link } from '@/core/i18n/navigation';
 import { brand } from '@/config/brand';
 import { m } from '@/paraglide/messages.js';
 import { BuiltWithShipAny } from '@/components/built-with-shipany';
-import { LocaleSelector } from '@/components/locale-selector';
 
 export function SeedanceFooter() {
   return (
     <footer className="border-t border-white/10 px-4 py-12">
-      <div className="mx-auto grid max-w-6xl gap-8 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="mx-auto grid max-w-6xl gap-8 sm:grid-cols-2 lg:grid-cols-3">
         <div>
           <Link href="/" className="flex items-center gap-2">
             <img src={brand.logo} alt={brand.name} className="h-7 w-auto" />
@@ -82,15 +81,6 @@ export function SeedanceFooter() {
               </Link>
             </li>
           </ul>
-        </div>
-
-        <div>
-          <h3 className="text-xs font-semibold tracking-wider text-white/70 uppercase">
-            {m['landing.footer.language']()}
-          </h3>
-          <div className="mt-3">
-            <LocaleSelector />
-          </div>
         </div>
       </div>
     </footer>

@@ -6,7 +6,6 @@ import { Link, usePathname } from '@/core/i18n/navigation';
 import { brand } from '@/config/brand';
 import { cn } from '@/lib/utils';
 import { m } from '@/paraglide/messages.js';
-import { LocaleSelector } from '@/components/locale-selector';
 import { SiteUserMenu } from '@/components/site-user-menu';
 
 const nav = [
@@ -97,7 +96,6 @@ export function SeedanceHeader() {
           </nav>
 
           <div className="hidden items-center gap-2 md:flex">
-            <LocaleSelector />
             {user ? (
               <SiteUserMenu
                 name={user.name || 'User'}

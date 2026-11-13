@@ -4,6 +4,7 @@ import { AlertTriangle, Loader2, Sparkles } from 'lucide-react';
 import { toast } from 'sonner';
 
 import { Link } from '@/core/i18n/navigation';
+import { modelCatalog } from '@/config/showcase';
 import { apiPost } from '@/lib/api-client';
 import { cn } from '@/lib/utils';
 import { m } from '@/paraglide/messages.js';
@@ -32,13 +33,22 @@ export function GeneratorShell({
   initialPrompt?: string;
 }) {
   const [prompt, setPrompt] = useState(initialPrompt);
+  const models = modelCatalog.filter((m) =>
+    mode === 'video' ? m.kind !== 'image' : m.kind !== 'video'
+  );
+  const [selectedModel, setSelectedModel] = useState(
+    () => models[0]?.id ?? 'default'
+  );
   const [resultUrl, setResultUrl] = useState<string | null>(null);
   const [missingKey, setMissingKey] = useState(false);
   const [statusMessage, setStatusMessage] = useState<string | null>(null);
 
   const mutation = useMutation({
-    mutationFn: (vars: { prompt: string; mode: GeneratorMode }) =>
-      apiPost<GenerateResponse>('/api/ai/generate', vars),
+    mutationFn: (vars: {
+      prompt: string;
+      mode: GeneratorMode;
+      model?: string;
+    }) => apiPost<GenerateResponse>('/api/ai/generate', vars),
     onSuccess: (data) => {
       if (data.missingProvider) {
         setMissingKey(true);
@@ -64,7 +74,7 @@ export function GeneratorShell({
       toast.error(m['generator.prompt_required']());
       return;
     }
-    mutation.mutate({ prompt: trimmed, mode });
+    mutation.mutate({ prompt: trimmed, mode, model: selectedModel });
   }
 
   return (
@@ -73,11 +83,36 @@ export function GeneratorShell({
       <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14">
         <div className="mb-8 max-w-2xl">
           <h1 className="text-2xl font-bold text-white lg:text-3xl">{title}</h1>
-          <p className="text-muted-foreground mt-2 text-sm sm:text-base">
-            {subtitle}
-          </p>
+          <p className="mt-2 text-sm text-white/60 sm:text-base">{subtitle}</p>
         </div>
 
+        <div className="mb-6 flex flex-wrap gap-2">
+          {(models.length
+            ? models
+            : [
+                {
+                  id: 'default',
+                  name: mode === 'video' ? 'Video model' : 'Image model',
+                },
+              ]
+          )
+            .slice(0, 8)
+            .map((model) => (
+              <button
+                key={model.id}
+                type="button"
+                onClick={() => setSelectedModel(model.id)}
+                className={cn(
+                  'rounded-full border px-3 py-1 text-xs transition-colors',
+                  selectedModel === model.id
+                    ? 'border-[#F2CE5A] bg-[#F2CE5A]/15 text-[#F2CE5A]'
+                    : 'border-white/15 text-white/70 hover:border-white/30 hover:text-white'
+                )}
+              >
+                {model.name}
+              </button>
+            ))}
+        </div>
         <div className="grid gap-6 lg:grid-cols-[1fr_1fr]">
           <div className="rounded-2xl border border-white/10 bg-black/40 p-4 sm:p-5">
             <textarea

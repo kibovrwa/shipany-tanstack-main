@@ -6,6 +6,9 @@
  * product_id is honored, and everything else is looked up here.
  *
  * To change pricing, edit this file and redeploy. Admin UI cannot alter prices.
+ *
+ * Numbers mirror seevideo.ai public pricing (Starter / Pro / Unlimited +
+ * Pay Once packs). Brand/copy stay swappable via messages + brand.ts.
  */
 
 import { PaymentInterval, PaymentType } from '@/core/payment/types';
@@ -44,8 +47,7 @@ export type PricingProduct = {
 };
 
 /**
- * Default demo catalog. Replace with your real products when launching.
- * Keys MUST match what the pricing UI sends as product_id.
+ * SeeVideo-style catalog. Keys MUST match what the pricing UI sends as product_id.
  */
 export const pricingCatalog: Record<string, PricingProduct> = {
   starter_monthly: {
@@ -54,9 +56,9 @@ export const pricingCatalog: Record<string, PricingProduct> = {
     planName: 'Starter',
     description: 'Starter Monthly',
     type: PaymentType.SUBSCRIPTION,
-    priceInCents: 900,
+    priceInCents: 2999,
     currency: 'usd',
-    credits: 5000,
+    credits: 2500,
     plan: {
       name: 'Starter',
       interval: PaymentInterval.MONTH,
@@ -69,22 +71,23 @@ export const pricingCatalog: Record<string, PricingProduct> = {
     planName: 'Pro',
     description: 'Pro Monthly',
     type: PaymentType.SUBSCRIPTION,
-    priceInCents: 2900,
+    priceInCents: 8999,
     currency: 'usd',
-    credits: 50000,
+    credits: 10000,
     plan: { name: 'Pro', interval: PaymentInterval.MONTH, intervalCount: 1 },
   },
-  enterprise_monthly: {
-    productId: 'enterprise_monthly',
-    productName: 'Enterprise',
-    planName: 'Enterprise',
-    description: 'Enterprise Monthly',
+  unlimited_monthly: {
+    productId: 'unlimited_monthly',
+    productName: 'Unlimited',
+    planName: 'Unlimited',
+    description: 'Unlimited Monthly',
     type: PaymentType.SUBSCRIPTION,
-    priceInCents: 9900,
+    priceInCents: 14999,
     currency: 'usd',
-    credits: 500000,
+    // Represent “unlimited” as a large monthly pool for ledger accounting.
+    credits: 999999,
     plan: {
-      name: 'Enterprise',
+      name: 'Unlimited',
       interval: PaymentInterval.MONTH,
       intervalCount: 1,
     },
@@ -93,68 +96,58 @@ export const pricingCatalog: Record<string, PricingProduct> = {
     productId: 'starter_yearly',
     productName: 'Starter',
     planName: 'Starter',
-    description: 'Starter Yearly',
+    description: 'Starter Yearly ($100/year · ~$8.3/mo)',
     type: PaymentType.SUBSCRIPTION,
-    priceInCents: 8600,
+    priceInCents: 10000,
     currency: 'usd',
-    credits: 60000,
+    credits: 10000,
     plan: { name: 'Starter', interval: PaymentInterval.YEAR, intervalCount: 1 },
   },
   pro_yearly: {
     productId: 'pro_yearly',
     productName: 'Pro',
     planName: 'Pro',
-    description: 'Pro Yearly',
+    description: 'Pro Yearly ($300/year · $25/mo)',
     type: PaymentType.SUBSCRIPTION,
-    priceInCents: 27800,
+    priceInCents: 30000,
     currency: 'usd',
-    credits: 600000,
+    credits: 32000,
     plan: { name: 'Pro', interval: PaymentInterval.YEAR, intervalCount: 1 },
   },
-  enterprise_yearly: {
-    productId: 'enterprise_yearly',
-    productName: 'Enterprise',
-    planName: 'Enterprise',
-    description: 'Enterprise Yearly',
+  unlimited_yearly: {
+    productId: 'unlimited_yearly',
+    productName: 'Unlimited',
+    planName: 'Unlimited',
+    description: 'Unlimited Yearly ($900/year · $75/mo)',
     type: PaymentType.SUBSCRIPTION,
-    priceInCents: 95000,
+    priceInCents: 90000,
     currency: 'usd',
-    credits: 6000000,
+    credits: 999999,
     plan: {
-      name: 'Enterprise',
+      name: 'Unlimited',
       interval: PaymentInterval.YEAR,
       intervalCount: 1,
     },
   },
-  starter_lifetime: {
-    productId: 'starter_lifetime',
-    productName: 'Starter',
-    planName: 'Starter Lifetime',
-    description: 'Starter Lifetime',
+  credits_pack_standard: {
+    productId: 'credits_pack_standard',
+    productName: 'Credits Pack',
+    planName: 'Pay Once Standard',
+    description: 'One-time 23,500 credits',
     type: PaymentType.ONE_TIME,
-    priceInCents: 14900,
+    priceInCents: 19999,
     currency: 'usd',
-    credits: 100000,
+    credits: 23500,
   },
-  pro_lifetime: {
-    productId: 'pro_lifetime',
-    productName: 'Pro',
-    planName: 'Pro Lifetime',
-    description: 'Pro Lifetime',
+  credits_pack_pro: {
+    productId: 'credits_pack_pro',
+    productName: 'Credits Pack',
+    planName: 'Pay Once Pro',
+    description: 'One-time 60,000 credits',
     type: PaymentType.ONE_TIME,
-    priceInCents: 49900,
+    priceInCents: 49999,
     currency: 'usd',
-    credits: 1000000,
-  },
-  enterprise_lifetime: {
-    productId: 'enterprise_lifetime',
-    productName: 'Enterprise',
-    planName: 'Enterprise Lifetime',
-    description: 'Enterprise Lifetime',
-    type: PaymentType.ONE_TIME,
-    priceInCents: 199900,
-    currency: 'usd',
-    credits: 10000000,
+    credits: 60000,
   },
 
   // Guest posts (see src/modules/guest-posts). Published permanently, every
