@@ -1,71 +1,59 @@
 import { createFileRoute } from '@tanstack/react-router';
 
 import { envConfigs } from '@/config';
+import { wrapPageHead } from '@/lib/wrap/seo';
 import { m } from '@/paraglide/messages.js';
-import { getLocale, locales, localizeUrl } from '@/paraglide/runtime.js';
-import { Blog } from '@/blocks/blog';
-import { CTA } from '@/blocks/cta';
-import { FAQ } from '@/blocks/faq';
-import { Features } from '@/blocks/features';
-import { Footer } from '@/blocks/footer';
-import { Header } from '@/blocks/header';
-import { Hero } from '@/blocks/hero';
+import { getLocale } from '@/paraglide/runtime.js';
 import { Pricing } from '@/blocks/pricing';
-import { SupportWidget } from '@/blocks/support-widget';
-import { getBlogPostsFn } from '@/content/posts/server';
+import { Hero } from '@/blocks/wrap/hero';
+import {
+  AboutBox,
+  GalleryMarquee,
+  HomeCta,
+  HomeFaq,
+  HowTo,
+  PngRequirements,
+  VehicleGrid,
+  WrapIdeas,
+} from '@/blocks/wrap/home-sections';
+import { PageShell } from '@/blocks/wrap/page-shell';
 
-/**
- * Default landing page — demo content. Rewrite this file (and the blocks in
- * src/blocks/) for your project. The primitives in src/components/ stay.
- * See /quick-start or /clone-website to automate the rewrite.
- */
 function HomePage() {
-  const { posts } = Route.useLoaderData();
-
   return (
-    <div className="bg-background text-foreground flex min-h-screen flex-col">
-      <Header />
-      <main>
-        <Hero />
-        <Features />
-        <Pricing />
-        <FAQ />
-        <Blog posts={posts} />
-        <CTA />
-      </main>
-      <Footer />
-      <SupportWidget />
-    </div>
+    <PageShell>
+      <Hero />
+      <GalleryMarquee />
+      <WrapIdeas />
+      <VehicleGrid />
+      <HowTo />
+      <Pricing />
+      <PngRequirements />
+      <HomeFaq />
+      <AboutBox />
+      <HomeCta />
+    </PageShell>
   );
 }
 
 export const Route = createFileRoute('/')({
-  loader: async () => {
+  loader: () => {
     const locale = getLocale();
-    const posts = await getBlogPostsFn({ data: { locale, limit: 3 } });
-    return { locale, posts };
-  },
-  head: ({ loaderData }) => {
-    const locale = loaderData?.locale ?? 'en';
-    const urlFor = (loc: string) =>
-      localizeUrl(`${envConfigs.app_url}/`, { locale: loc as any }).href;
+    const brand = envConfigs.app_name;
     return {
-      meta: [
-        {
-          name: 'description',
-          content: m['landing.hero.subheadline']({}, { locale: locale as any }),
-        },
-      ],
-      links: [
-        { rel: 'canonical', href: urlFor(locale) },
-        ...locales.map((loc) => ({
-          rel: 'alternate',
-          hrefLang: loc,
-          href: urlFor(loc),
-        })),
-        { rel: 'alternate', hrefLang: 'x-default', href: urlFor('en') },
-      ],
+      locale,
+      title: m['wrap.home.meta_title']({ brand }, { locale }),
+      description: m['wrap.home.meta_description']({}, { locale }),
     };
   },
+  head: ({ loaderData }) =>
+    loaderData
+      ? wrapPageHead({
+          path: '/',
+          locale: loaderData.locale,
+          title: loaderData.title,
+          description: loaderData.description,
+          bareTitle: true,
+        })
+      : {},
   component: HomePage,
 });
